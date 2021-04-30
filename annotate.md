@@ -17,31 +17,47 @@ From within the app, you can click the **Upload image file** button to return to
 
 ## Zoom
 
-You can zoom in and out of an image by clicking on one of three **Zoom** buttons in the right toolbar, each associated with a different level of zoom (**1x, 2x, 4x**). You can also quickly zoom in and out using the mouse wheel. When you zoom in, the portion of the image shown on screen is indicated by the viewfinder in the top right corner.
+*Image missing*
+
+Zoom is controlled by the Zoom Bar and Viewfinder. Zoom level is controlled by the **Zoom in** and **Zoom out** buttons. When zoomed in, the portion of the image shown on screen is indicated by the viewfinder in the top right corner.
 
 ### Viewfinder
 
-The viewfinder allows you to navigate an image whilst zoomed in. The white rectangle overlay shows the currently displayed area of the main image. Click and drag inside the white rectangle to pan across the zoomed image and view a different area.
+The viewfinder allows you to navigate and pan across an image whilst zoomed in. The white rectangle overlay shows the currently displayed area of the main image. Click and drag inside the white rectangle to pan across the zoomed image and view a different area.
 
 *Image Missing*
 
 ### Reset zoom and pan
 
-To completely reset the view, click on the **Reset zoom and pan** button directly below the viewfinder.
+To completely reset the view, click on the **Reset zoom and pan** button in the Zoom Bar.
 
-## Undo/Redo
+## Annotations
 
-Click the **Undo** button in the right-sided toolbar to cancel your last action. The last action could be the last change you made during annotation. Click on the **Redo** button in the right toolbar to cancel your last undo action.
+*Image Missing*
 
-## Annotation Tools
+The annotations panel allows you to annotate multiple objects individually, delete the current object annotation in progress and label annotated objects. Once your current/intital annotation is complete, click the **Annotate new object** button. To delete the current annotation in progress, click the **Clear selected annotation** button. *Labelling info*
 
-### Brush shape and eraser
+## Image
 
-You can either use a circle or a square brush. Click on the **Circle brush** button or the **Square brush** button to alternate between the two. Click on the **Toggle eraser tool** button to turn your brush into an eraser, then use the cursor to erase annotation as you would when drawing it.
+*Image Missing*
 
-### Adjust brush size
+The image panel allows you to modify aspects of the loaded image to make it easier to annotate. Both **Contrast** and **Brightness** can be modified in the range of 0% to 200% using the sliders. For multi-channel images, these can also be selected from this panel.
 
-Click on the **Adjust paintbrush size** button in the left-sided toolbar and use the slider to enlarge or reduce the size of the brush. When you are satisfied with the size, click on the **Confirm** or **Cancel** button underneath the slider to close it. To revert to the default settings, click on the **Reset to default** button underneath the slider.
+## Paintbrushes
 
-### 
+*Image Missing*
+
+From the paintbrushes panel you can select annotate by paintbrush options. By clicking the **Brush** button you can acitvate the painbrush annotation tool. By clicking **Eraser** button you can switch to a tool to erase sections of the current annotation. The radius of the Brush ir Eraser tool cand be selected, in the range of 1 pixel to 20 pixels, using the **Radius** Slider.
+
+## Splines
+
+*Image Missing*
+
+From the splines panel you can select annotate by spline options.  By clicking the **Activate spline** button you can activate the spline annotation tool. Individual nodes for the spline annotation can then be placed on the image.
+
+## Upload Annotation
+
+*Image missing*
+
+Once completed, annotations can be uploaded using the **Upload** button.
 
