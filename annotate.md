@@ -6,6 +6,15 @@
 
 Welcome to the gliff.ai annotation tool, this has been desgined to make it easy for domain-specific experts to add data to images enabling machine learning training. Our custom browser-based UI is designed with this in mind, hopefully making the process easily acessible to annotators of all technical experience levels. Please see below for detailed instructions on how to use the software.
 
+## Features
+
+**Load raw images from database**
+**Up to 10x zoom**
+**Multiple object annotation and labelling**
+**Individual spline annotation**
+**Up to 200% Contrast/Brightness adjustment**
+**Upload annotaions back to database**
+
 ## Load Images
 
 **Note:** This feature will depend on your access setup, you may be automatically presented with an image on loading the software.
