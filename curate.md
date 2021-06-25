@@ -1,13 +1,13 @@
-###Curate###
+# Curate
 
-##Feature##
+## Feature
 
 **Image previews**
 **Custom labelling including search**
 **Full metadata sort**
 
-##Sort##
+## Sort
 
-##Label##
+## Label
 
-##Search##
+## Search
