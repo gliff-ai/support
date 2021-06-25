@@ -9,10 +9,15 @@ Welcome to the gliff.ai annotation tool, this has been desgined to make it easy 
 ## Features
 
 **Load raw images from database**
+
 **Up to 10x zoom**
+
 **Multiple object annotation and labelling**
+
 **Individual spline annotation**
+
 **Up to 200% Contrast/Brightness adjustment**
+
 **Upload annotaions back to database**
 
 ## Load Images
