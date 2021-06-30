@@ -6,14 +6,11 @@
 
 Welcome to the gliff.ai annotation tool, this has been desgined to make it easy for domain-specific experts to add data to images enabling machine learning training. Our custom browser-based UI is designed with this in mind, hopefully making the process easily acessible to annotators of all technical experience levels. Please see below for detailed instructions on how to use the software.
 
-## Load Images
-
-**Note:** This feature will depend on your access setup, you may be automatically presented with an image on loading the software.
+## Upload/Download
 
 *Image Missing*
 
-On first loading the app, you will be greeted with the above screen. You may select both raw images files and pre-segmentations from your storage loaction by clicking the respective **Browse** button. Once you have selected the raw image file (and any optional pre-segmentations), click **Submit** to load the annotation software.
-From within the app, you can click the **Upload image file** button to return to the load screen.
+Use the **Upload image** button to load your image for annotation. Depending on your version, images can be uploaded from loacl storage or from gliff.ai managed storage. Once Annotations have been completed, they can be downloaded to the same storage location. By clicking the **Download annotations** button you will be presented with the option to export specifc types of annotation (magicspline, paintbrush) in the available formats (JSON, Tiff). 
 
 ## Zoom
 
@@ -54,10 +51,4 @@ From the paintbrushes panel you can select annotate by paintbrush options. By cl
 *Image Missing*
 
 From the splines panel you can select annotate by spline options.  By clicking the **Activate spline** button you can activate the spline annotation tool. Individual nodes for the spline annotation can then be placed on the image.
-
-## Upload Annotation
-
-*Image missing*
-
-Once completed, annotations can be uploaded using the **Upload** button.
 
