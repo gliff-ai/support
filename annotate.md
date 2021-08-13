@@ -48,7 +48,7 @@ To completely reset the view, click on the **Fit to Page** button.
 
 ![alt text](https://github.com/gliff-ai/document/blob/philhallbio-rebrand/assets/Annotation%20Management.png)
 
-To begin annotating an object click the **Add New Annotation** button and select the desired functionality (see below). To delete the current annotation in progress, click the **Clear Annotation** button. To select a different click the **Select** button, click an area of the desired annotation and select the desired functionality.
+To begin annotating an object click the **Add New Annotation** button and select the desired functionality (see below). To delete the current annotation in progress, click the **Clear Annotation** button. To select a different click the **Select** button, click an area of the desired annotation and select the desired functionality. To undo the last action, click the **Undo last action** and to redo the action, click the **Redo last action**.
 
 ### Labelling
 
@@ -74,14 +74,40 @@ By clicking the **Brush** button you can activate the paintbrush annotation tool
 
 ![alt text](https://github.com/gliff-ai/document/blob/philhallbio-rebrand/assets/Spline.png)
 
-By clicking the **Spline** button you can activate the spline annotation tool. Individual nodes for the spline annotation can then be placed sequentially on the image, automatically connected to the last to create a single line.
+By clicking the **Spline** button you can activate the spline annotation tool. Thge defualt mosde allows individual nodes for the spline annotation can then be placed sequentially on the image, automatically connected to the last to create a single line. The **Lasso Spline** tool allows multiple nodes to pbe placed around an object, connected by a continuous line, and a complete perimeter drawn by connecting back to the orignal node. The **Convert Spline to Paintbrush** function will convert the current, completed perimeter spline into a block annotation similar to using the paintbrush function.
 
-### Magic Splines
+### Rectangular Bounding Box
 
-Magic splines work in much the same way as the spline function. However the magic spline will not place at the point clicked, but at the nearest "hard edge" detected by the software. In this way you can rapidly annotate images with clearly defined lines. Click the **Magic Spline** button to activate.
+The **Rectangular Bounding Box** allows you to draw a straight forward rectangle annotation around a given area. First, click to select the top left corner position, then click the bottom right corner position. The position of any corner can be altered by clicking on the corner and dragging to a new position.
 
 ## Image
 
 ![alt text](https://github.com/gliff-ai/document/blob/philhallbio-rebrand/assets/Image.png)
 
 There are multiple built-in tools to adjust the loaded image to make it easier to annotate. Both **Contrast** and **Brightness** can be modified in the range of 0% to 200% using the sliders. For multi-channel images, the individual channels can also be selected from this panel using the **Channels** button.
+
+| Button | Shortcut |
+| --- | --- |
+| Upload images | u |
+| Download images | d |
+| Maximise Map | Alt = |
+| Minimise Map | Alt - |
+| Zoom In | Alt 1 |
+| Zoom Out | Alt 2 |
+| Fit to Page | Alt 3 |
+| Select | a |
+| Add New Annotation | = |
+| Clear Annotation | - |
+| Annotation Label | CTRL Space |
+| Undo | CTRL z |
+| Redo | CTRL y |
+| Brush | b |
+| Eraser | e |
+| Spline | s |
+| Lasso Spline | o |
+| Close Active Spline | l |
+| Convert Spline to Paintbrush | CTRL q |
+| Rectangular Bounding Box | r |
+| Brightness | / |
+| Contrast | \ |
+| Channels | c |
