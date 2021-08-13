@@ -74,7 +74,7 @@ By clicking the **Brush** button you can activate the paintbrush annotation tool
 
 ![alt text](https://github.com/gliff-ai/document/blob/philhallbio-rebrand/assets/Spline.png)
 
-By clicking the **Spline** button you can activate the spline annotation tool. Thge defualt mosde allows individual nodes for the spline annotation can then be placed sequentially on the image, automatically connected to the last to create a single line. The **Lasso Spline** tool allows multiple nodes to pbe placed around an object, connected by a continuous line, and a complete perimeter drawn by connecting back to the orignal node. The **Convert Spline to Paintbrush** function will convert the current, completed perimeter spline into a block annotation similar to using the paintbrush function.
+By clicking the **Spline** button you can activate the spline annotation tool. The default mode allows individual nodes for the spline annotation to be placed sequentially on the image, automatically connected to the last to create a single line. The **Lasso Spline** tool allows multiple nodes to be placed around an object, connected by a continuous line, and a complete perimeter drawn by connecting back to the orignal node. The **Convert Spline to Paintbrush** function will convert the current, completed perimeter spline into a block annotation similar to using the paintbrush function.
 
 ### Rectangular Bounding Box
 
