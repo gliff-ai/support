@@ -10,10 +10,10 @@ gliff.ai is a machine learning operations (MLOps) platform made up of mutliple i
 
 ## Tools
 
-[Annotate](https://docs.gliff.app/annotate) allows domain experts to annotate multidimensional images for developing imaging AI products.
+[Annotate](/annotate) allows domain experts to annotate multidimensional images for developing imaging AI products.
 
-[Curate]()
+[Curate](/curate)
 
-[Manage]()
+[Manage](/manage)
 
 If any of your questions aren't answered on these pages, please [contact us](https://gliff.ai/contact).
