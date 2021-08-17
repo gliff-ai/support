@@ -18,13 +18,13 @@ last_modified_date: 2021-08-17 15:00:00 +0000
 
 ## Introduction
 
-Welcome to the gliff.ai annotation tool, this has been desgined to make it easy for domain-specific experts to add data to images enabling machine learning training. Our custom browser-based UI is designed with this in mind, hopefully making the process easily acessible to annotators of all technical experience levels. Please see below for detailed instructions on how to use the software.
+Welcome to the gliff.ai annotation tool, this has been designed to make it easy for domain-specific experts to add data to images enabling machine learning training. Our custom browser-based UI is designed with this in mind, hopefully making the process easily accessible to annotators of all technical experience levels. Please see below for detailed instructions on how to use the software.
 
 ## Upload/Download
 
 ![alt text](/assets/images/annotate_import-export.png)
 
-Use the **Upload image** button to load your image for annotation. Depending on your version, images can be uploaded from loacl storage or from gliff.ai managed storage. Once Annotations have been completed, they can be downloaded to the same storage location. By clicking the **Download annotations** button you will be presented with the option to export specifc types of annotation (magicspline, paintbrush) in the available formats (JSON, Tiff). 
+Use the **Upload image** button to load your image for annotation. Depending on your version, images can be uploaded from local storage or from gliff.ai managed storage. Once Annotations have been completed, they can be downloaded to the same storage location. By clicking the **Download annotations** button you will be presented with the option to export specific types of annotation (magicspline, paintbrush) in the available formats (JSON, Tiff). 
 
 ## Zoom
 
