@@ -86,26 +86,26 @@ There are multiple built-in tools to adjust the loaded image to make it easier t
 
 | Button | Shortcut |
 | --- | --- |
-| Upload images | u |
-| Download images | d |
-| Maximise Map | Alt = |
-| Minimise Map | Alt - |
-| Zoom In | Alt 1 |
-| Zoom Out | Alt 2 |
-| Fit to Page | Alt 3 |
-| Select | a |
-| Add New Annotation | = |
-| Clear Annotation | - |
-| Annotation Label | CTRL Space |
-| Undo | CTRL z |
-| Redo | CTRL y |
-| Brush | b |
-| Eraser | e |
-| Spline | s |
-| Lasso Spline | o |
-| Close Active Spline | l |
-| Convert Spline to Paintbrush | CTRL q |
-| Rectangular Bounding Box | r |
-| Brightness | / |
-| Contrast | \ |
-| Channels | c |
+| Upload images | <kbd>u</kbd> |
+| Download images | <kbd>d</kbd> |
+| Maximise Map | <kbd>Alt</kbd>+<kbd>=</kbd> |
+| Minimise Map | <kbd>Alt</kbd>+<kbd>-</kbd> |
+| Zoom In | <kbd>Alt</kbd>+<kbd>1</kbd> |
+| Zoom Out | <kbd>Alt</kbd>+<kbd>2</kbd> |
+| Fit to Page | <kbd>Alt</kbd>+<kbd>3</kbd> |
+| Select | <kbd>a</kbd> |
+| Add New Annotation | <kbd>=</kbd> |
+| Clear Annotation | <kbd>-</kbd> |
+| Annotation Label | <kbd>CTRL</kbd>+<kbd>Space</kbd> |
+| Undo | <kbd>CTRL</kbd>+<kbd>z</kbd> |
+| Redo | <kbd>CTRL</kbd>+<kbd>y</kbd> |
+| Brush | <kbd>b</kbd> |
+| Eraser | <kbd>e</kbd> |
+| Spline | <kbd>s</kbd> |
+| Lasso Spline | <kbd>o</kbd> |
+| Close Active Spline | <kbd>l</kbd> |
+| Convert Spline to Paintbrush | <kbd>CTRL</kbd>+<kbd>q</kbd> |
+| Rectangular Bounding Box | <kbd>r</kbd> |
+| Brightness | <kbd>/</kbd> |
+| Contrast | <kbd>\</kbd> |
+| Channels | <kbd>c<kbd> |
