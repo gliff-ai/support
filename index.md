@@ -16,4 +16,4 @@ gliff.ai is a machine learning operations (MLOps) platform made up of mutliple i
 
 [Manage]()
 
-If any of your questions aren't answered on these pages, please request them by emailing `contact@gliff.ai`.
+If any of your questions aren't answered on these pages, please [contact us](https://gliff.ai/contact).
