@@ -8,19 +8,13 @@ last_modified_date: 2021-08-17 15:00:00 +0000
 
 ## Features
 
-**Load raw images from local storage**
-
-**Integrated zoom and viewfinding**
-
-**Multiple object annotation and labelling**
-
-**Magic Spline annotation for hard edge objects**
-
-**Up to 200% Contrast/Brightness adjustment**
-
-**Multi-channel, 3D image compatible**
-
-**Download annotations back to database**
+* Load raw images from local storage
+* Integrated zoom and viewfinding
+* Multiple object annotation and labelling
+* Magic Spline annotation for hard edge objects
+* Up to 200% Contrast/Brightness adjustment
+* Multi-channel, 3D image compatible
+* Download annotations back to database
 
 ## Introduction
 
