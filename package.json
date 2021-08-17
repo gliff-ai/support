@@ -7,7 +7,8 @@
     "format": "npx --no-install prettier --write *.md",
     "prettier": "npx --no-install prettier -c *.md",
     "lint": "npm run lint:md && npm run prettier",
-    "lint:md": "npx markdownlint *.md"
+    "lint:md": "npx markdownlint *.md",
+    "serve": "bundle exec jekyll serve -H 127.0.0.1 -t"
   },
   "license": "AGPL-3.0-only",
   "devDependencies": {
