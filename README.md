@@ -10,15 +10,21 @@ Setting up locally allows you to make changes and test them out before making a 
 
 1. install ruby <2.7 (https://www.ruby-lang.org/en/documentation/installation/)
 2. install bundler (https://bundler.io/) with `gem install bundler`
-4. make bundle install everything locally (so no sudo required) with `bundle config set --local path 'vendor/bundle'`
-5. install dependencies locally with `bundle install`
+3. make bundle install everything locally (so no sudo required) with `bundle config set --local path 'vendor/bundle'`
+4. install dependencies locally with `bundle install`
+5. install npm dependencies for lint and format with `npm i`
 
 ## To update locally (do this regularly)
 
-1. update dependencies with `bundle update`
+1. update dependencies with `bundle update` and `npm update`
 
 ## To run locally
 
 1. run `bundle exec jekyll serve -H 127.0.0.1`
 2. go to http://127.0.0.1:4000/
 3. hit `ctrl`+`c` to stop the server
+
+## To lint and format your changes
+
+1. run `npm run lint`
+2. run `npm run format`
