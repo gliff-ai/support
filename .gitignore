@@ -1,1 +1,8 @@
 /.vscode/
+/.bundle/
+/vendor/
+/node_modules/
+Gemfile.lock
+_site
+.sass-cache
+.jekyll-metadata
