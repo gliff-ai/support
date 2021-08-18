@@ -2,15 +2,13 @@
 
 ## Feature
 
-**Flexible image previews**
-
-**Custom labelling including search**
-
-**Full metadata sort**
+- Flexible image previews
+- Custom labelling including search
+- Full metadata sort
 
 ## Size and Select
 
-The thumbnail size selector panel allows the user to easily alter the image previews to suit requirements. Click the **Large Thumbnails**, **Medium Thumbnails** or **Small Thumbnails** button to switch between views. 
+The thumbnail size selector panel allows the user to easily alter the image previews to suit requirements. Click the **Large Thumbnails**, **Medium Thumbnails** or **Small Thumbnails** button to switch between views.
 
 Clicking on a image preview will highlight the selected image and display the metadata for that image. Selecting multiple images using standard **Shift + Click** or **CTRL + Click** functions and then clicking the **Select Multiple Images** button will reveal a new panel summarising image numbers and the **Delete Images** button.
 

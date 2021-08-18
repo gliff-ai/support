@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/.github/"
+    schedule:
+      interval: "weekly"
+    reviewers:
+      - "gliff-ai/techteam"
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    reviewers:
+      - "gliff-ai/techteam"
