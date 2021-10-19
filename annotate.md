@@ -9,7 +9,7 @@ last_modified_date: 2021-08-17 15:00:00 +0000
 ## Features
 
 - Load raw images from local storage
-- Integrated zoom and viewfinding
+- Integrated zoom and viewfinder
 - Multiple object annotation and labelling
 - Magic Spline annotation for hard edge objects
 - Up to 200% Contrast/Brightness adjustment
@@ -24,7 +24,7 @@ Welcome to the gliff.ai annotation tool, this has been designed to make it easy 
 
 ![alt text](/assets/images/annotate_import-export.png)
 
-Use the **Upload image** button to load your image for annotation. Depending on your version, images can be uploaded from local storage or from gliff.ai managed storage. Once Annotations have been completed, they can be downloaded to the same storage location. By clicking the **Download annotations** button you will be presented with the option to export specific types of annotation (magicspline, paintbrush) in the available formats (JSON, Tiff).
+Use the **Upload image** button to load your image for annotation. Depending on your version, images can be uploaded from local storage or from gliff.ai managed storage. Once Annotations have been completed, they can be downloaded to the same storage location. By clicking the **Download annotations** button you will be presented with the option to export specific types of annotation (magic spline, paintbrush) in the available formats (JSON, Tiff).
 
 ## Zoom
 
@@ -72,17 +72,17 @@ By clicking the **Brush** button you can activate the paintbrush annotation tool
 
 ![alt text](/assets/images/annotate_spline.png)
 
-By clicking the **Spline** button you can activate the spline annotation tool. The default mode allows individual nodes for the spline annotation to be placed sequentially on the image, automatically connected to the last to create a single line. The **Lasso Spline** tool allows multiple nodes to be placed around an object, connected by a continuous line, and a complete perimeter drawn by connecting back to the orignal node. The **Convert Spline to Paintbrush** function will convert the current, completed perimeter spline into a block annotation similar to using the paintbrush function.
+By clicking the **Spline** button you can activate the spline annotation tool. The default mode allows individual nodes for the spline annotation to be placed sequentially on the image, automatically connected to the last to create a single line. The **Lasso Spline** tool allows multiple nodes to be placed around an object, connected by a continuous line, and a complete perimeter drawn by connecting back to the original node. Using either spline tool, the current spline can be closed, connecting the first and last node, using the **Close Active Spline** button to create a custom spline shape. The **Convert Spline to Paintbrush** function will convert the current, completed spline shape into a block annotation similar to using the paintbrush function.
 
 ### Rectangular Bounding Box
 
 The **Rectangular Bounding Box** allows you to draw a straight forward rectangle annotation around a given area. First, click to select the top left corner position, then click the bottom right corner position. The position of any corner can be altered by clicking on the corner and dragging to a new position.
 
-## Image
+## Background Settings
 
 ![alt text](/assets/images/annotate_image-controls.png)
 
-There are multiple built-in tools to adjust the loaded image to make it easier to annotate. Both **Contrast** and **Brightness** can be modified in the range of 0% to 200% using the sliders. For multi-channel images, the individual channels can also be selected from this panel using the **Channels** button.
+There are multiple built-in tools to adjust the loaded image to make it easier to annotate. Click the **Background Settings** button to access these controls. Both **Contrast** and **Brightness** can be modified in the range of 0% to 200% using the sliders. For multi-channel images, the individual channels can also be selected from this panel using the **Channels** button.
 
 | Button                       | Shortcut                         |
 | ---------------------------- | -------------------------------- |

@@ -5,12 +5,15 @@
 - Flexible image previews
 - Custom labelling including search
 - Full metadata sort
+- Trusted service hosting via API
 
 ## Size and Select
 
 The thumbnail size selector panel allows the user to easily alter the image previews to suit requirements. Click the **Large Thumbnails**, **Medium Thumbnails** or **Small Thumbnails** button to switch between views.
 
 Clicking on a image preview will highlight the selected image and display the metadata for that image. Selecting multiple images using standard **Shift + Click** or **CTRL + Click** functions and then clicking the **Select Multiple Images** button will reveal a new panel summarising image numbers and the **Delete Images** button.
+
+Double-clicking on any image will take you through to the **Annotate** app for image markup.
 
 ## Sort
 
@@ -20,7 +23,7 @@ Clicking the **Sort** button reveals the sort panel. By selecting a given image 
 
 Every image can be individually labelled by click the **Update image labels** flag on the desired image. This will open the label panel for the clicked image. A Label can be added to the image by typing in the **New Label** textbox and clicking the **+** button. the labels attached to a given image are show at the button of the panel and can be removed by clicking the **x** button next to a particular label.
 
-All labels used on the image collection can be viewed in the **Annotation Labels** dropdown. Using the arrows next to the labels, and the **Select All Labels** or **Deselect All Labels** button, single or multiple labels can be selected (denoted by a **Green** arrow). Only images that have all the selected labels will be shown.
+All labels used on the image collection can be viewed in the **Annotation Labels** dropdown. Using the arrows next to the labels, and the **Select all labels** or **Deselect all labels** button, single or multiple labels can be selected (denoted by a **Green** arrow). Only images that have all the selected labels will be shown. Additionally, all unlabelled images can be displayed using the **Select all unlabelled images** button.
 
 ## Search
 
@@ -29,3 +32,11 @@ Images can be searched for using any image characteristic or label. Clicking the
 ## Collections
 
 If you have access to multiple collections, these can be viewed by clicking the **View Collection** button. Changes to the current collection are saved automatically as they are made.
+
+## Upload/Download
+
+Whole datasets and image selections can be uploaded and downloaded from your machine using the **Upload Image** button and the **Download Dataset** buttons.
+
+## Trusted Services
+
+The **Trusted Services** button allows you to view any proprietary software that has been connected to the gliff.ai app via API for data analysis or AI hosting.
