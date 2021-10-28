@@ -4,7 +4,7 @@ last_modified_date: 2021-08-17 15:00:00 +0000
 
 # Annotate
 
-![alt text](/assets/images/annotate_screenshot.png)
+![Annotate Screenshot](/assets/images/annotate_screenshot.png)
 
 ## Features
 
@@ -22,13 +22,13 @@ Welcome to the gliff.ai annotation tool, this has been designed to make it easy 
 
 ## Upload/Download
 
-![alt text](/assets/images/annotate_import-export.png)
+![Annotate Import/Export](/assets/images/annotate_import-export.png)
 
 Use the **Upload image** button to load your image for annotation. Depending on your version, images can be uploaded from local storage or from gliff.ai managed storage. Once Annotations have been completed, they can be downloaded to the same storage location. By clicking the **Download annotations** button you will be presented with the option to export specific types of annotation (magic spline, paintbrush) in the available formats (JSON, Tiff).
 
 ## Zoom
 
-![alt text](/assets/images/annotate_viewfinder.png)
+![Viewfinder](/assets/images/annotate_viewfinder.png)
 
 To access zoom functionality, click on the **Maximise Map** button in the bottom right corner of the screen. This reveals the zoom and viewfinder controls. Zoom level is controlled by the **Zoom In** and **Zoom Out** buttons. When zoomed in, the portion of the image shown on screen is indicated by the viewfinder in the top right corner.
 
@@ -36,7 +36,7 @@ To access zoom functionality, click on the **Maximise Map** button in the bottom
 
 The viewfinder allows you to navigate and pan across an image whilst zoomed in. The white rectangle overlay shows the currently displayed area of the main image. Click and drag inside the white rectangle to pan across the zoomed image and view a different area.
 
-![alt text](/assets/images/annotate_zoomed-in.png)
+![Zoom](/assets/images/annotate_zoomed-in.png)
 
 ### Fit to Page
 
@@ -52,7 +52,7 @@ To begin annotating an object click the **Add New Annotation** button and select
 
 ![alt text](/assets/images/annotate_labelling.png)
 
-A selected annotation can be labelled using the **Annotation Label** panel. Once open, a new label can be created by typing in the **New Label** text field and clicking the **+**. The label will be automatically applied to the annotation (denoted by green highlight). Once multiple labels have been created, they can be toggled on and off for a selected annotation using the **+** and **X** arrow next to the desired label.
+Any selected annotation can be labelled using the **Annotation Label** panel. Once open, a new label can be created by typing in the **New Label** text field and clicking the **+**. The label will be automatically applied to the annotation (denoted by green highlight). Once multiple labels have been created, they can be toggled on and off for a selected annotation using the **+** and **X** arrow next to the desired label.
 
 When multiple annotations are being labelled, the label panel can be pinned open (using the pin symbol, top right of the panel), otherwise the panel will close upon the next click outside the label panel.
 
