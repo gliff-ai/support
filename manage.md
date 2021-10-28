@@ -32,7 +32,8 @@ If you have run out of team member spots, please upgrade to a higher plan via th
 
 ## Collaborators
 
-Click the **Collaborators** button to access the collaborator management page. Collaborators can only create annotations on images assigned to them, so these slots are useful for domain experts with specific knowledge that is useful for image analysis or machine learning.
+Click the **Collaborators** button to access the collaborator management page.
+Collaborators can only create annotations on images assigned to them, so these slots are useful for domain experts with specific knowledge that is useful for image analysis or machine learning.
 
 To invite a collaborator to join your account, type their email address into the **collaborator invites** section and click the **Send** arrow.
 If you have run out of collaborator spots, please upgrade to a higher plan via the **Account** button.
