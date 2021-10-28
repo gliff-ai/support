@@ -41,7 +41,7 @@ If you have run out of collaborator spots, please upgrade to a higher plan via t
 ## Services
 
 Click the **Services** button to access the management page for trusted services.
-Trusted services are additional 3rd party softwares that can range from enhanced annotation functions to trained AIs and are connected to the platform via API.
+Trusted services are additional 3rd party software that can range from enhanced annotation functions to trained AIs and are connected to the platform via API.
 To add a trusted service to you account, click **+ Add New Trusted Service**.
 A pop-up will appear where you can give thr trusted service a name and define the URL where it is hosted.
 Once connected, trusted services can then be accessed from Curate or Annotate interfaces.
