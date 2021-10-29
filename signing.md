@@ -1,3 +1,6 @@
+---
+nav_order: 1
+---
 # Sign Up and Login
 
 ## Sign Up
