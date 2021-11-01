@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Sign Up
 
-To sign up to the gliff.ai, please go to (gliff.app).
+To sign up to the gliff.ai, please go to [gliff.app](gliff.app).
 This will take you to the login screen.
 Click the **Sign Up** button at the bottom of the screen to create an account.
 
@@ -26,7 +26,7 @@ Once this is complete, you can login as below.
 
 ## Login
 
-To login, first go to (gliff.app).
+To login, first go to [gliff.app](gliff.app).
 Enter your email address and password in the boxes provided and click **Continue**.
 
 You are now ready to begin working on your project.
