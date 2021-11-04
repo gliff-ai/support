@@ -6,7 +6,7 @@ nav_order: 4
 
 # Annotate
 
-![Annotate Screenshot](/assets/images/annotate_screenshot.png)
+![Annotate Screenshot](/assets/images/annotate/annotate.png)
 
 ## Features
 
@@ -26,7 +26,7 @@ Please see below for detailed instructions on how to use the software.
 
 ## Upload/Download
 
-![Annotate Import/Export](/assets/images/annotate_import-export.png)
+![Annotate Import/Export](/assets/images/annotate/annotate_download.png)
 
 Use the **Upload image** button to load your image for annotation.
 Depending on your version, images can be uploaded from local storage or from gliff.ai managed storage. Once Annotations have been completed, they can be downloaded to the same storage location.
@@ -34,28 +34,36 @@ By clicking the **Download annotations** button you will be presented with the o
 
 ## Zoom
 
-![Viewfinder](/assets/images/annotate_viewfinder.png)
+![Maximise Minimap Button](/assets/images/annotate/annotate_max_minimap.png)
 
 To access zoom functionality, click on the **Maximise Map** button in the bottom right corner of the screen.
+
+![Zoom Minimap](/assets/images/annotate/annotate_minimap.png)
+
 This reveals the zoom and viewfinder controls.
+
+![Zoom Controls](/assets/images/annotate/annotate_zoom.png)
+
 Zoom level is controlled by the **Zoom In** and **Zoom Out** buttons.
 When zoomed in, the portion of the image shown on screen is indicated by the viewfinder in the top right corner.
 
 ### Viewfinder
 
+![Viewfinder Functions](/assets/images/annotate/annotate_view.png)
+
 The viewfinder allows you to navigate and pan across an image whilst zoomed in.
 The white rectangle overlay shows the currently displayed area of the main image.
 Click and drag inside the white rectangle to pan across the zoomed image and view a different area.
 
-![Zoom](/assets/images/annotate_zoomed-in.png)
-
 ### Fit to Page
+
+![Fit to Page Function](/assets/images/annotate/annotate_fit.png)
 
 To completely reset the view, click on the **Fit to Page** button.
 
 ## Annotation Management
 
-![alt text](/assets/images/annotate_CRUD.png)
+![Controls for the Management of Annotations](/assets/images/annotate/annotate_management.png)
 
 To begin annotating an object click the **Add New Annotation** button and select the desired functionality (see below).
 To delete the current annotation in progress, click the **Clear Annotation** button.
@@ -66,7 +74,7 @@ Please note: if you leave annotate without saving then your annotations will not
 
 ### Labelling
 
-![alt text](/assets/images/annotate_labelling.png)
+![Annotation Labels Interface](/assets/images/annotate/annotate_labels.png)
 
 Any selected annotation can be labelled using the **Annotation Label** panel.
 Once open, a new label can be created by typing in the **New Label** text field and clicking the **+**.
@@ -81,13 +89,13 @@ When multiple annotations are being labelled, the label panel can be pinned open
 
 ## Annotation Functionality
 
-![alt text](/assets/images/annotate_tools.png)
+![Controls for Annotation Tools](/assets/images/annotate/annotate_function.png)
 
 The Annotate app has multiple methods for the creation and editing of annotations.
 
 ### Paintbrush
 
-![alt text](/assets/images/annotate_brush.png)
+![Paintbrush Functions](/assets/images/annotate/annotate_paintbrush.png)
 
 By clicking the **Brush** button you can activate the paintbrush annotation tool.
 The size slider will appear, allowing the radius of the brush to be altered within a range of 1 pixel to 20 pixels.
@@ -97,7 +105,7 @@ The transparency of an annotation can be altered from 0-100% by clicking the **A
 
 ### Splines
 
-![alt text](/assets/images/annotate_spline.png)
+![Spline Functions](/assets/images/annotate/annotate_spline.png)
 
 By clicking the **Spline** button you can activate the spline annotation tool.
 The default mode allows individual nodes for the spline annotation to be placed sequentially on the image, automatically connected to the last to create a single line.
@@ -107,11 +115,13 @@ The **Convert Spline to Paintbrush** function will convert the current, complete
 
 ### Rectangular Bounding Box
 
+![Bounding Box Function](assets/images/annotate/annotate_box.png)
+
 The **Rectangular Bounding Box** allows you to draw a straight forward rectangle annotation around a given area. First, click to select the top left corner position, then click the bottom right corner position. The position of any corner can be altered by clicking on the corner and dragging to a new position.
 
 ## Background Settings
 
-![alt text](/assets/images/annotate_image-controls.png)
+![Controls for Background Image Settings](/assets/images/annotate/annotate_background.png)
 
 There are multiple built-in tools to adjust the loaded image to make it easier to annotate. Click the **Background Settings** button to access these controls. Both **Contrast** and **Brightness** can be modified in the range of 0% to 200% using the sliders. For multi-channel images, the individual channels can also be selected from this panel using the **Channels** button.
 
