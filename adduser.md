@@ -31,4 +31,5 @@ Tip: Ensure that you are on the right management page before inviting someone to
 
 On each page is list of access and control for the user category as above.
 To invite someone to the platform, type their email address into the **invites** section and click the **Send** arrow.
-They should then receive an invite email with a link for them to sign up with. If they need any help, point them to the [Account Setup](/setup) page of this guide.
+They should then receive an invite email with a link for them to sign up with.
+If they need any help, point them to the [Account Setup](/setup) page of this guide.
