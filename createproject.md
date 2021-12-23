@@ -2,6 +2,7 @@
 parent: Get Started
 nav_order: 3
 ---
+
 # Create a project
 
 Tip: In order to begin uploading data and annotating images, you must first create a project as described below.

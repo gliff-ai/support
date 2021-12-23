@@ -2,6 +2,7 @@
 parent: Get Started
 nav_order: 1
 ---
+
 # What is gliff.ai
 
 gliff.ai is a platform of multiple interconnected tools for the development of image analysis software and AI through curation, annotation and collaboration.

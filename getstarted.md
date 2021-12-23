@@ -2,6 +2,7 @@
 nav_order: 1
 has_children: true
 ---
+
 # Get Started
 
 **Learn where to begin with signing up and setting up your gliff.ai account, projects and team.**

@@ -2,6 +2,7 @@
 parent: Get Started
 nav_order: 2
 ---
+
 # Account Setup
 
 ![Initial Login Screen](/assets/images/signing/login.png)

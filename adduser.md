@@ -2,6 +2,7 @@
 parent: Get Started
 nav_order: 4
 ---
+
 # Adding Users
 
 Tip: In order for users (team members or collaborators) to access the system, they must be invited to the platform and assigned to projects amd images.
