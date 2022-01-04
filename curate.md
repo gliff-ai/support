@@ -1,6 +1,6 @@
 ---
-parent: gliff.ai
-nav_order: 3
+parent: What is gliff.ai?
+nav_order: 2
 ---
 
 # Curate
