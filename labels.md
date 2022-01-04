@@ -7,7 +7,7 @@ nav_order: 7
 
 ![Annotation Labels Interface](/assets/images/annotate/annotate_labels.png)
 
-*Tip: To Label and annotation you must first select it, see Annotation Management section of [Annotation: First Steps](/firststeps) for further instructions.*
+_Tip: To Label and annotation you must first select it, see Annotation Management section of [Annotation: First Steps](/firststeps) for further instructions._
 
 Any selected annotation can be labelled using the **Annotation Label** panel.
 Once open, a new label can be created by typing in the **New Label** text field and clicking the **+**.

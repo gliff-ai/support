@@ -10,7 +10,7 @@ nav_order: 4
 Welcome to the gliff.ai annotation tool, this has been designed to make it easy for domain-specific experts to add data to images enabling machine learning training.
 Our custom browser-based UI is designed with this in mind, hopefully making the process easily accessible to annotators of all technical experience levels.
 
-*Tip: To begin annotating an image, double click on the desired image in the curate interface. To learn more about this interface, please see [Curate a Dataset](/curatedata). If you cannot see the image you are looking for, it is possible you are not assigned to the image, please contact one of your team members to alter the assignment.*
+_Tip: To begin annotating an image, double click on the desired image in the curate interface. To learn more about this interface, please see [Curate a Dataset](/curatedata). If you cannot see the image you are looking for, it is possible you are not assigned to the image, please contact one of your team members to alter the assignment._
 
 ## Annotation Management
 

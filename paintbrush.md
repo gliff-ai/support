@@ -23,11 +23,11 @@ By clicking the **Eraser** button you can switch the brush tool to erase section
 You will again be given the size slider to choose your size, as with the brush.
 Erasing on the canvass works identically to the brush.
 
-*Tip: To begin a new annotation or to cycle back through annotations already completed, please see the Annotation management section of [Annotation: First Steps](/firststeps).*
+_Tip: To begin a new annotation or to cycle back through annotations already completed, please see the Annotation management section of [Annotation: First Steps](/firststeps)._
 
 ## 3D Brush
 
-*Tip: The 3D brush will only work with multi-slice (z stack-style) images.*
+_Tip: The 3D brush will only work with multi-slice (z stack-style) images._
 
 Clicking the **Use 3D brushstrokes** button will activate the 3D brush, 3D annotations are rendered as a sphere with the widest part on the current slice. The 2D tools (above) can be used to modify the annotation on specific slides.
 

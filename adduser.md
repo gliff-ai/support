@@ -10,7 +10,7 @@ Tip: In order for users (team members or collaborators) to access the system, th
 ## User categories
 
 In gliff.ai we have 3 user categories that define the level of access and control that a user has.
-These are: *Team Owners, Team Members* and *Collaborators*.
+These are: _Team Owners, Team Members_ and _Collaborators_.
 
 Team Owners have full access and control.
 
@@ -25,7 +25,7 @@ Collaborators can only create annotations on images assigned to them, so these s
 
 ## Invite Users
 
-To invite a *Team Member* or *Collaborator*, go to **Manage** and click the **Team** button or the **Collaborators** button to access the respective management pages.
+To invite a _Team Member_ or _Collaborator_, go to **Manage** and click the **Team** button or the **Collaborators** button to access the respective management pages.
 
 Tip: Ensure that you are on the right management page before inviting someone to join that user category.
 
