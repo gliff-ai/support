@@ -25,7 +25,7 @@ github_username: gliff-ai
 # Build settings
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
-theme: just-the-docs
+# theme: just-the-docs
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/gliff.svg"
