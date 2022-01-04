@@ -8,7 +8,7 @@ This repository contains the Open Source code for [gliff.ai](https://gliff.ai)�
 
 DOCUMENT is [gliff.ai](https://gliff.ai)'s user documentation for supporting use of our user-friendly interface for curating, annotation and collaborating with imaging datasets for the purposes of developing imaging AI products. When the full [gliff.ai platform](https://gliff.ai/software/) is used, DOCUMENT provides a clear guide for our users to support the development of high-quality and auditable datasets that satisfy any relevant regulatory frameworks which enables our users to build world-changing and trustworthy AI models and products.
 
-A preview build of the current `main` branch is [here](https://document.staging.gliff.app/).
+A preview build of the current `main` branch is [here](https://docs.gliff.app/).
 
 ✅ **We welcome contributions on this repository!** ✅
 
