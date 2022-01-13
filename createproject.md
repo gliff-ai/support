@@ -3,13 +3,13 @@ parent: Get Started
 nav_order: 3
 ---
 
-# Create a project
+# Create a Project
 
 Tip: In order to begin uploading data and annotating images, you must first create a project as described below.
 
 ![Project Management Page](/assets/images/manage/manage_projects.png)
 
-Click the **Projects** button to access the project management page.
+In the **Manage** area, click the **Projects** button to access the project management page.
 To create a new project, click **+ Create New Project**.
 A pop-up will appear where you can then give the project a name and assign team members already on the system to that project.
 Please note: the number of projects you can create is limited by your account plan.
@@ -35,6 +35,8 @@ Click the **Open** (or equivalent) button to begin the upload.
 
 ![Picture missing]
 
-A progress bar will appear at the bottom of the screen and once it reaches 100% the images will appear in the platform.
+A progress bar will appear at the bottom of the screen.
+Upload may take longer than other data transfers as the images are being encrypted during upload.
+Once it reaches 100% the images will appear in the platform.
 
 To access the image annotation interface, double click on the desired image.
