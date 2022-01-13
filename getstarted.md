@@ -17,8 +17,9 @@ How to access the platform and setup your account.
 
 ## [Create a Project](/createproject)
 
-Every account comes with a set number of projects for the team owner. Learn how to set up projects and begin to upload data.
+Every account comes with a set number of projects for the team owner.
+Learn how to set up projects and begin to upload data.
 
 ## [Adding Users](/adduser)
 
-To get the most from gliff.ai you need to add team members and collaborators to the platform and to specific projects.
+If your project involves other team members and collaborators, find out how to add different types of users.
