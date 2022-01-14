@@ -5,7 +5,9 @@ nav_order: 5
 
 # Paintbrush
 
-One of the the most commonly used annotation methods, the gliff platform contains multiple paintbrush features for easy markup of images.
+One of the the most commonly used annotation methods, the gliff.ai platform contains multiple paintbrush features for easy markup of images.
+
+Tip: To begin a new annotation or to cycle back through annotations already completed, please see the Annotation management section of [Annotation: First Steps](/firststeps).
 
 ![Paintbrush Functions](/assets/images/annotate/annotate_paintbrush.png)
 
@@ -13,7 +15,9 @@ One of the the most commonly used annotation methods, the gliff platform contain
 
 By clicking the **Paintbrush** button, you will reveal the paintbrush tool interface.
 Clicking the next **Paintbrush** button revealed will cause the size slider to appear, allowing the radius of the brush to be altered within a range of 1 pixel to 40 pixels.
-Once selected, you can draw anywhere on the canvass with a circular annotation of the size selected.
+Once selected, you can draw anywhere on the canvas with a circular annotation of the size selected.
+
+![Image missing]()
 
 If you have created a solid outline, continuous annotation using the paintbrush, you can fill the shape created using the **Fill Active Paintbrush** button.
 
@@ -21,7 +25,7 @@ If you have created a solid outline, continuous annotation using the paintbrush,
 
 By clicking the **Eraser** button you can switch the brush tool to erase sections of the current annotation.
 You will again be given the size slider to choose your size, as with the brush.
-Erasing on the canvass works identically to the brush.
+Erasing on the canvas works identically to the brush.
 
 _Tip: To begin a new annotation or to cycle back through annotations already completed, please see the Annotation management section of [Annotation: First Steps](/firststeps)._
 
