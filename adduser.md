@@ -5,11 +5,11 @@ nav_order: 4
 
 # Adding Users
 
-Tip: In order for users (team members or collaborators) to access the system, they must be invited to the platform and assigned to projects amd images.
+Tip: In order for additional users (team members or collaborators) to access your project(s), they must be invited to the platform and assigned to projects and images.
 
-## User categories
+## User Categories
 
-In gliff.ai we have 3 user categories that define the level of access and control that a user has.
+In gliff.ai we have 3 user categories that define the level of access to data and the level of data control and user management that is permitted to an individual.
 These are: _Team Owners, Team Members_ and _Collaborators_.
 
 Team Owners have full access and control.
@@ -27,7 +27,7 @@ Collaborators can only create annotations on images assigned to them, so these s
 
 To invite a _Team Member_ or _Collaborator_, go to **Manage** and click the **Team** button or the **Collaborators** button to access the respective management pages.
 
-Tip: Ensure that you are on the right management page before inviting someone to join that user category.
+Tip: Ensure that you are on the right management page (either **Team** or **Collaborators**) before inviting someone to join that user category.
 
 On each page is list of access and control for the user category as above.
 To invite someone to the platform, type their email address into the **invites** section and click the **Send** arrow.
