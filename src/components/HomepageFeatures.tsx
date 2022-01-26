@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "Easy to use",
-    image: "/img/undraw_docusaurus_mountain.svg",
+    image: "/img/hero_getstarted.svg",
     description: (
       <>
         gliff.ai was designed by data scientists for everybody - we take the
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Annotate your data",
-    image: "/img/undraw_docusaurus_tree.svg",
+    image: "/img/hero_annotate.svg",
     description: (
       <>
         gliff.ai is a data platform that allows you to annotate your images with
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Collaborate with your team",
-    image: "/img/undraw_docusaurus_react.svg",
+    image: "/img/hero_collaborate.svg",
     description: (
       <>
         gliff.ai is designed for secure collaboration between domain experts and
