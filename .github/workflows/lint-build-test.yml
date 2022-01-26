@@ -1,20 +1,34 @@
-name: Lint
+name: lint and test deploy
 on: push
 
 jobs:
-  Lint:
+  lint:
     runs-on: ubuntu-latest
     timeout-minutes: 2
     steps:
-      - name: Checkout
+      - name: checkout
         uses: actions/checkout@v2
-      - name: Setup node
+      - name: setup node
         uses: actions/setup-node@v1
         with:
-          node-version: 15
-      - name: Setup dependencies
+          node-version: 16
+      - name: setup dependencies
         run: npm i -g markdownlint-cli prettier && npm i
-      - name: Lint
+      - name: lint
         run: npm run lint:md
-      - name: Prettier
+      - name: prettier
         run: npm run prettier
+  test_deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16
+      - name: setup dependencies
+        run: npm i
+      - name: build
+        run: npm run build
