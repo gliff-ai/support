@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ![Initial Login Screen](/img/dominate/login.png)
 
-To sign up to the gliff.ai, please go to [gliff.app](gliff.app).
+To sign up to the gliff.ai, please go to [gliff.app](https://gliff.app).
 This will take you to the login screen.
 Click the **Sign Up** button at the bottom of the screen to create an account.
 
@@ -33,7 +33,7 @@ Once this is complete, you can login as below.
 
 ![Initial Login Screen](/img/dominate/login.png)
 
-To login, first go to [gliff.app](gliff.app).
+To login, first go to [gliff.app](https://gliff.app).
 Enter your email address and password in the boxes provided and click **Continue**.
 
 You are now ready to begin working on your project.

@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Whilst the paintbrush is the primary functionality within the annotation interface. There are also a host of options for drawing with splines and other tools to create linear and boundary annotations.
 
-_Tip: Begin a new annotation when switching between tools, see Annotation Management section of [Annotation: First Steps](/firststeps) for further instructions._
+_Tip: Begin a new annotation when switching between tools, see Annotation Management section of [Annotation: First Steps](firststeps) for further instructions._
 
 ## Splines
 
@@ -21,7 +21,7 @@ Click the **Spline** button in the spline panel to activate.
 Each individual click you make on the canvass will place an additional node sequentially in the spline.
 Placed nodes can be subsequently moved by clicking and dragging them across the canvass.
 
-_Tip: To stop placing nodes for a spline, you must begin a new annotation, see Annotation Management section of [Annotation: First Steps](/firststeps) for further instructions._
+_Tip: To stop placing nodes for a spline, you must begin a new annotation, see Annotation Management section of [Annotation: First Steps](firststeps) for further instructions._
 
 If you wish to turn your annotation into a closed shape, please click the **Close Active Spline** button.
 
@@ -33,7 +33,7 @@ By clicking on the canvass, and dragging around the desired area, a number of sp
 Additional clicks will place individual nodes in a similar way to the ordinary spline.
 Placed nodes can be subsequently moved by clicking and dragging them across the canvass.
 
-_Tip: To stop placing nodes for a spline, you must begin a new annotation, see Annotation Management section of [Annotation: First Steps](/firststeps) for further instructions._
+_Tip: To stop placing nodes for a spline, you must begin a new annotation, see Annotation Management section of [Annotation: First Steps](firststeps) for further instructions._
 
 If you wish to turn your annotation into a closed shape, please click the **Close Active Spline** button.
 
@@ -43,7 +43,7 @@ Clicking the **Convert Spline to Paintbrush** will convert the current spline an
 This new brushstroke annotation can be manipulated as with any other created using the paintbrush.
 By subsequently using **Fill Active Paintbrush** this can be an easy way to create solid area annotations.
 
-_Tip: Learn more on Paintbrushes at [Annotation: Paintbrush](/paintbrush)._
+_Tip: Learn more on Paintbrushes at [Annotation: Paintbrush](paintbrush)._
 
 ## Rectangular Bounding Box
 

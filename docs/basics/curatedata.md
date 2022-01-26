@@ -8,7 +8,7 @@ sidebar_position: 3
 
 The principal curation interface includes a lot of tools to assist with parsing and analysing a dataset.
 
-Tip: In order to access the curation interface, you must first setup a project ([Create a Project](/createproject))
+Tip: In order to access the curation interface, you must first setup a project ([Create a Project](../getstarted/createproject))
 
 ## Size and Select
 

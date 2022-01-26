@@ -9,13 +9,13 @@ sidebar_position: 5
 Welcome to the gliff.ai annotation tool, this has been designed to make it easy for domain-specific experts to add data to images enabling machine learning training.
 Our custom browser-based UI is designed with this in mind, hopefully making the process easily accessible to annotators of all technical experience levels.
 
-_Tip: To begin annotating an image, double click on the desired image in the curate interface. To learn more about this interface, please see [Curate a Dataset](/curatedata). If you cannot see the image you are looking for, it is possible you are not assigned to the image, please contact one of your team members to alter the assignment._
+_Tip: To begin annotating an image, double click on the desired image in the curate interface. To learn more about this interface, please see [Curate a Dataset](curatedata). If you cannot see the image you are looking for, it is possible you are not assigned to the image, please contact one of your team members to alter the assignment._
 
 ## Annotation Management
 
 ![Controls for the Management of Annotations](/img/annotate/annotate_management.png)
 
-To begin annotating an object click the **Add New Annotation** button and select the desired functionality (see options in [Basics](/basics)).
+To begin annotating an object click the **Add New Annotation** button and select the desired functionality (see options in [Basics](thebasics)).
 To delete the current annotation in progress, click the **Clear Annotation** button.
 To select a different annotation click the **Select** button, click an area of the desired annotation and select the desired functionality to alter.
 To undo the last action, click the **Undo last action** and to redo the action, click the **Redo last action**.
