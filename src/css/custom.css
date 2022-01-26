@@ -14,11 +14,11 @@
   --ifm-color-primary-lighter: #5cffcb;
   --ifm-color-primary-lightest: #85ffd8;
   --ifm-code-font-size: 95%;
+  --ifm-background-color: #f2f2f2;
   --ifm-hero-background-color: #ffffffaa;
 }
 
 body {
-  background-color: #f2f2f2;
   background-image: url("bg_grey.png");
   background-repeat: no-repeat;
   background-position: right center;
