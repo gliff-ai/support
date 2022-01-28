@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/contributors-<%= contributors.length %>-yellow.svg?style=flat-square)](#contributors)",
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "philhallbio",
+      "name": "philhallbio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70635602?v=4",
+      "profile": "https://github.com/philhallbio",
+      "contributions": [
+        "doc",
+        "maintenance",
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "document",
+  "projectOwner": "gliff-ai",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
