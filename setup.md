@@ -23,7 +23,7 @@ Next, you will presented with your account recovery key.
 
 **_Please save your account recovery key to a secure location, this is the ONLY time it will be shown._**
 
-**_We do not store your own recovery key, if you lose this we will be unable to recover your data attached to the account._**
+**_gliff.ai does not store your own recovery key. This is to ensure the complete security of our cutting edge end-to-end encyrption by only ever giving access rights to the relevant user. If you lose this we will be unable to recover your data attached to the account._**
 
 Click **Continue** once you have noted the recovery key.
 
