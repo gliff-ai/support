@@ -1,6 +1,9 @@
 # gliff.ai DOCUMENT
 
-![Latest Tag](https://img.shields.io/github/v/tag/gliff-ai/document?&label=latest_tag&style=flat-square&color=f2f2f2) ![Number of Open Issues](https://img.shields.io/github/issues/gliff-ai/document?style=flat-square&color=yellow) ![Number of Open Pull Requests](https://img.shields.io/github/issues-pr/gliff-ai/document?style=flat-square&color=yellow) ![Number of Contributors](https://img.shields.io/github/contributors/gliff-ai/document?style=flat-square&color=yellow) ![Repository Size](https://img.shields.io/github/repo-size/gliff-ai/document?style=flat-square&color=red) ![Repo License](https://img.shields.io/github/license/gliff-ai/document?color=0078FF&style=flat-square)
+![Repo License](https://img.shields.io/github/license/gliff-ai/document?color=0078FF&style=flat-square) ![Repository Size](https://img.shields.io/github/repo-size/gliff-ai/document?style=flat-square&color=f2f2f2) ![Latest Tag](https://img.shields.io/github/v/tag/gliff-ai/document?&label=latest%20tag&style=flat-square&color=f2f2f2) ![Number of Open Issues](https://img.shields.io/github/issues/gliff-ai/document?style=flat-square&color=yellow) ![Number of Open Pull Requests](https://img.shields.io/github/issues-pr/gliff-ai/document?style=flat-square&color=yellow) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/contributors-1-yellow.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 👋 **Welcome in!** 👋
 
@@ -81,7 +84,22 @@ Sounds good and want to contribute to the project? 🧑‍💻 \
 Please check the [gliff.ai Contribution Guide](<(https://github.com/gliff-ai/.github/blob/main/CONTRIBUTING.md)>) 👋 before you get started. Don’t forget the [gliff.ai Code of Conduct](<(https://github.com/gliff-ai/.github/blob/main/CODE_OF_CONDUCT.md)>) ⚠️ and [gliff.ai Security Policy](<(https://github.com/gliff-ai/.github/blob/main/SECURITY.md)>) 🔒 too!
 
 A big thank you from the entire gliff.ai team to these fellow contributors ([emoji key](https://allcontributors.org/docs/en/emoji-key)): \
-[{{Contributor List - _coming soon_}}](https://github.com/all-contributors/all-contributors)
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/philhallbio"><img src="https://avatars.githubusercontent.com/u/70635602?v=4?s=100" width="100px;" alt=""/><br /><sub><b>philhallbio</b></sub></a><br /><a href="https://github.com/gliff-ai/document/commits?author=philhallbio" title="Documentation">📖</a> <a href="#maintenance-philhallbio" title="Maintenance">🚧</a> <a href="#content-philhallbio" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+_This project follows the [all-contributors specification](https://github.com/all-contributors/all-contributors) and makes use of the [all-contributors emoji key](https://allcontributors.org/docs/en/emoji-key) to credit the types of contributions from our community!_
 
 ## Contact
 
