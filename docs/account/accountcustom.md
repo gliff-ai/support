@@ -16,7 +16,7 @@ Your team's storage usage will be revealed here also if you have permissions.
 
 ## Billing
 
-Clicking on Bill will allow the Team owner to access details of their plan, usage, invoices and payment details.
+Clicking on Bill will allow the Team Owner to access details of their plan, usage, invoices and payment details.
 Additionally, by clicking the **+** in the top right of the Plan Usage panel, further add ons (such as additional collaborators or storage) can be directly requested.
 
 ## Plug-ins and Custom Code
