@@ -8,7 +8,7 @@ One of the the most commonly used annotation methods, the gliff.ai platform cont
 
 ![Paintbrush Functions](/img/annotate/annotate_paintbrush.png)
 
-Tip: To begin a new annotation or to cycle back through annotations already completed, please see the Annotation management section of [Annotation: First Steps](/firststeps).
+Tip: To begin a new annotation or to cycle back through annotations already completed, please see the Annotation management section of [Annotation: First Steps](firststeps).
 
 ## Brush
 
