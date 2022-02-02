@@ -2,7 +2,8 @@ name: deploy to GitHub Pages
 
 on:
   push:
-    branches: [staging]
+    branches:
+      - main
 
 jobs:
   deploy:
@@ -33,3 +34,4 @@ jobs:
           # You can swap them out with your own user credentials.
           user_name: gliff-ai-robot
           user_email: chas+noteG@gliff.ai
+          cname: docs.gliff.app
