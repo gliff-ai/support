@@ -8,14 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
     title: 'gliff.ai DOCUMENT',
     tagline: 'building trustworthy AI with you',
-    url: 'https://your-docusaurus-test-site.com',  // FIXME where is this used?
+    url: 'https://docs.gliff.app',  // FIXME where is this used?
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'img/favicon.png',
     // FIXME where are the next two used?
     organizationName: 'gliff-ai', // Usually your GitHub org/user name.
-    projectName: 'roadmap', // Usually your repo name.
+    projectName: 'document', // Usually your repo name.
+    trailingSlash: false,
 
     presets: [
         [
