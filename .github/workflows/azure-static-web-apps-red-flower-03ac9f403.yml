@@ -29,6 +29,6 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_RED_FLOWER_03AC9F403 }}
           repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for Github integrations (i.e. PR comments)
           action: "upload"
-          app_location: "/dist" # App source code path
-          output_location: "/dist"
+          app_location: "/build" # App source code path
+          output_location: "/build"
           skip_app_build: true
