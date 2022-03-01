@@ -1,9 +1,5 @@
 name: lint and test deploy
-on:
-  push:
-    branches:
-      - main
-      - staging
+on: push
 
 jobs:
   lint:
