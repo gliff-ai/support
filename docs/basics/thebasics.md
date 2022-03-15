@@ -2,11 +2,11 @@
 sidebar_position: 1
 ---
 
-# Basics
+# Introduction - Basics
 
 **Learn how to use the platform to curate and annotate your data, as well as managing image assignments.**
 
-## [Create a Project](../getstarted/createproject)
+## [Create a Project](../introduction/createproject)
 
 Every account comes with a set number of projects for the team.
 Learn how to set up projects and begin to upload data.

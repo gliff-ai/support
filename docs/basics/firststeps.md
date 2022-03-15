@@ -20,11 +20,15 @@ To delete the current annotation in progress, click the **Clear Annotation** but
 To select a different annotation click the **Select** button, click an area of the desired annotation and select the desired functionality to alter.
 To undo the last action, click the **Undo last action** and to redo the action, click the **Redo last action**.
 
-Once annotations have been completed, click the **Save Annotations** button to confirm your changes.
-Please note: if you leave annotate without saving then your annotations will not be added to the image metadata.
+At any point, click the **Save Annotations** button to save your progress.
+_Tip: Save regularly as, if you leave annotate or switch images without saving, you will lose any unsaved annotations._
+
+Once annotations have been completed, click the **Mark Annotation As Complete** button.
+This will mark the image as complete for the team members, who can track progress on the **Manage** page.
+_Please note: if you leave annotate without saving then your annotations will not be added to the image metadata._
 
 To scroll through the annotations assigned to you, please use the arrows at the top of the page.
-Please note: if you switch images without saving, you will lose and unsaved annotations.
+_Please note: if you switch images without saving, you will lose any unsaved annotations._
 
 ## Zoom
 

@@ -8,7 +8,7 @@ The principal curation interface includes a lot of tools to assist with parsing 
 
 ![Curate Screenshot](/img/curate/curate.png)
 
-Tip: In order to access the curation interface, you must first setup a project ([Create a Project](../getstarted/createproject))
+Tip: In order to access the curation interface, you must first setup a project ([Create a Project](../introduction/createproject))
 
 ## Size and Select
 

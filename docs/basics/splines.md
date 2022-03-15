@@ -20,6 +20,7 @@ The ordinary spline allows you to precisely place nodes where you desire.
 Click the **Spline** button in the spline panel to activate.
 Each individual click you make on the canvas will place an additional node sequentially in the spline.
 Placed nodes can be subsequently moved by clicking and dragging them across the canvass.
+To add a new node in the middle of a spline, press **Ctrl** and click in the desired location.
 
 _Tip: To stop placing nodes for a spline, you must begin a new annotation, see Annotation Management section of [Annotation: First Steps](firststeps) for further instructions._
 
@@ -30,7 +31,7 @@ If you wish to turn your annotation into a closed shape, please click the **Clos
 The lasso spline allows you to rapidly draw a shape by clicking and dragging the cursor around a desired area.
 Click the **Lasso Spline** button in the spline panel to activate.
 By clicking on the canvass, and dragging around the desired area, a number of spline nodes will be placed to best represent the path of the cursor.
-Additional clicks will place individual nodes in a similar way to the ordinary spline.
+Additional individual nodes can be placed in the same way as an ordinary spline (see above).
 Placed nodes can be subsequently moved by clicking and dragging them across the canvas.
 
 _Tip: To stop placing nodes for a spline, you must begin a new annotation, see Annotation Management section of [Annotation: First Steps](firststeps) for further instructions._

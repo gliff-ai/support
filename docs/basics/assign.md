@@ -6,7 +6,7 @@ sidebar_position: 2
 
 There are two methods to assign collaborators to specific images with Curate: Manual and Auto-assign.
 
-Tip: In order to be able to assign team members and collaborators to images, you must have images uploaded to the platform ([Create a Project](../getstarted/createproject)) and have collaborators invited to the platform and added to the project ([Adding Users](../getstarted/adduser)).
+Tip: In order to be able to assign team members and collaborators to images, you must have images uploaded to the platform ([Create a Project](../introduction/createproject)) and have collaborators invited to the platform and added to the project ([Adding Users](../introduction/adduser)).
 
 ## Auto-assign
 
