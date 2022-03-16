@@ -21,4 +21,4 @@ Using the arrows next to the labels, and the **Select all labels** or **Deselect
 Only images that have all the selected labels will be shown.
 Additionally, all unlabelled images can be displayed using the **Select all unlabelled images** button.
 
-Tip: Labelling can be customised with default labels, read about how to setup default labels [here](../advanced/defaultlabels)
+Tip: Labelling can be customised with default labels, read about how to setup default labels [here](../misc/defaultlabels)

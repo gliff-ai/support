@@ -16,4 +16,4 @@ Once multiple labels have been created, they can be toggled on and off for a sel
 
 When multiple annotations are being labelled, the label panel can be pinned open (using the pin symbol, top right of the panel), otherwise the panel will close upon the next click outside the label panel.
 
-_Tip: Labelling can be customised with default labels, read about how to setup default labels [here](../advanced/defaultlabels)_
+_Tip: Labelling can be customised with default labels, read about how to setup default labels [here](../misc/defaultlabels)_
