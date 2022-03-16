@@ -8,7 +8,7 @@ Default labels allow team members to pre-load a number of labels in order to sim
 
 To setup default labels, open **Curate** for the relevant project.
 
-![Default Label Pop-Up]()
+![Default Label Pop-Up]
 
 Click the **Set default labels** button and a pop-up should appear.
 By typing in the **New label** box and clicking **+** you can add as many default labels as desired.

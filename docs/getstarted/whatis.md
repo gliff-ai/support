@@ -22,4 +22,4 @@ Tools included:
 
 [Audit](interfaces/audit) enables project leaders to track every change or annotation to an image for monitoring and presenting to regulators as necessary.
 
-![Audit Screenshot]()
+![Audit Screenshot]

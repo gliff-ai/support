@@ -24,7 +24,7 @@ Now that a project has been created, you can begin to upload data.
 Open the project by clicking the specific **Open X in Curate** button for the desired project.
 This will load the Curate interface where you can begin uploading images.
 
-![Curate Upload Box]()
+![Curate Upload Box]
 
 In Curate, click the **Upload Image** button.
 This will open the standard file navigation pop-up for your system.
@@ -32,7 +32,7 @@ Navigate to the desired image(s) and select all those for upload.
 
 Click the **Open** (or equivalent) button to begin the upload.
 
-![Progress Bar]()
+![Progress Bar]
 
 A progress bar will appear at the bottom of the screen.
 Upload may take longer than other data transfers as the images are being encrypted during upload.
