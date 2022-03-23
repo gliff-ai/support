@@ -32,7 +32,7 @@ Looking for something specific? 🔍
 
 Initially you will need to install [Ruby <2.7](https://www.ruby-lang.org/en/documentation/installation/) and [bundler](https://bundler.io/) with `gem install bundler`.
 
-Run `bundle config set --local path 'vendor/bundle'` to make the bundle install everything locally (so no sudo is required) and install dependenies locally with `bundle install` and npm dependencies for lint and format with `npm i`.
+Run `bundle config set --local path 'vendor/bundle'` to make the bundle install everything locally (so no sudo is required) and install dependenies locally with `bundle install` and npm dependencies for lint and format with `npm i --include=dev`.
 
 ## Development
 
@@ -50,10 +50,16 @@ Don't forget to regulary update dependenies with `bundle update` and `npm update
 
 As a standard, all code contributions should be linted with [ESLint](https://eslint.org/) using `.eslintrc.js` and formatted with [Prettier](https://prettier.io/). **Note:** HTML + CSS, mark-up and mark-down code are exemptions and should be formatted using [Prettier](https://prettier.io/) but do not need to be linted.
 
+We recommend that you use globbing to lint all markdown files in the project. To do this, please replace the line "lint:md" in the package.json file with "lint:md": "npx markdownlint-cli --ignore node_modules ./*/.md".
+
 `npm run lint` will lint the codebase.
 `npm run format` will format the codebase.
 
 Our GitHub Actions will also lint any pull requests before they're merged.
+
+## Build Testing
+
+Once code alterations have been made, please ensure the validity and stability of the code. We recommend using [Docusaurus](https://docusaurus.io/) using command 'npm run build' or 'npm run start' for continuous visualisation.
 
 ## Testing
 
