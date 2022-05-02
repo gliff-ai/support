@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Audit
 
-![Audit Screenshot](img/audit/audit.png)
+![Audit Screenshot](/img/audit/audit.png)
 
 ## Features
 
@@ -19,7 +19,7 @@ The Audit trail is an immutable record and can be used to demonstrate the robust
 
 ## Audit Trail
 
-![Audit Trail](img/audit/audit_trail.png)
+![Audit Trail](/img/audit/audit_trail.png)
 
 Clicking on any line of the Audit Trail table will open the corresponding record, created by the actions of the named user, at the date and time, relating to the noted image(s).
 Each individual record contains multiple individual actions and details of each, which can be expanded using the Details dropdowns.
@@ -29,7 +29,7 @@ To return to the Audit Trail table, click the **<-** button.
 
 Using the Search function allows an Audit record to be searched for actions and details.
 
-![Search](img/audit/audit_search.png)
+![Search](/img/audit/audit_search.png)
 
 Whilst within an individual Audit record (see above), click the **Search Category** dropdown and select the field to search.
 Type in the **Value** box the specific term you wish to search for.
