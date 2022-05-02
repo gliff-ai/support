@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Audit
 
-![Audit Screenshot]
+![Audit Screenshot](img/audit/audit.png)
 
 ## Features
 
@@ -14,12 +14,12 @@ sidebar_position: 4
 
 ## Introduction
 
-Welcome to the gliff.ai Audit interface, this has been designed for Team Members to review the curation and annotation of datasets by different users.
+Welcome to the gliff.ai Audit interface, this has been designed for Team Owners and Team Members to review the curation and annotation of datasets by different users.
 The Audit trail is an immutable record and can be used to demonstrate the robustness of annotation and ML training, both internally and also to external regulators.
 
 ## Audit Trail
 
-![Audit Trail]
+![Audit Trail](img/audit/audit_trail.png)
 
 Clicking on any line of the Audit Trail table will open the corresponding record, created by the actions of the named user, at the date and time, relating to the noted image(s).
 Each individual record contains multiple individual actions and details of each, which can be expanded using the Details dropdowns.
@@ -29,7 +29,7 @@ To return to the Audit Trail table, click the **<-** button.
 
 Using the Search function allows an Audit record to be searched for actions and details.
 
-![Search]
+![Search](img/audit/audit_search.png)
 
 Whilst within an individual Audit record (see above), click the **Search Category** dropdown and select the field to search.
 Type in the **Value** box the specific term you wish to search for.

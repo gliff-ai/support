@@ -41,4 +41,7 @@ This can be a very useful tool to determine the accuracy of drawn annotations by
 ## Strokes vs. Pixels
 
 Brush strokes can be converted from the standard vector-graphic representation into pixel level annotations, based on the size of the pixels of the image being annotated.
+
+![Converter Button](/img/annotate/annotate_strokes.png)
+
 To convert, click the **Show strokes as pixels** button.

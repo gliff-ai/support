@@ -28,7 +28,7 @@ To invite a _Team Member_ or _Collaborator_, go to **Manage** and click the **Te
 
 Tip: Ensure that you are on the right management page (either **Team** or **Collaborators**) before inviting someone to join that user category.
 
-On each page is list of access and control for the user category as above.
+On each page there is a list summarising the access and control for the user category.
 To invite someone to the platform, type their email address into the **Pending team invites** section and click the **Send** arrow.
 They should then receive an invite email with a link for them to sign up with.
 If they need any help, point them to the [Account Setup](setup) page of this guide.
