@@ -21,7 +21,6 @@ Looking for something specific? 🔍
 - [Installation](#installation)
 - [Development](#development)
 - [Linting and Formatting](#linting-and-formatting)
-- [Testing](#testing)
 - [Contribute](#contribute)
 - [Contact](#contact)
 - [License](#license)
@@ -30,17 +29,17 @@ Looking for something specific? 🔍
 
 [{{back to navigation}}](#table-of-contents)
 
-Initially you will need to install [Ruby <2.7](https://www.ruby-lang.org/en/documentation/installation/) and [bundler](https://bundler.io/) with `gem install bundler`.
+install npm dependencies for lint and format with `npm i --include=dev`.
 
-Run `bundle config set --local path 'vendor/bundle'` to make the bundle install everything locally (so no sudo is required) and install dependenies locally with `bundle install` and npm dependencies for lint and format with `npm i --include=dev`.
+For further info on npm, please visit https://www.npmjs.com/.
 
 ## Development
 
 [{{back to navigation}}](#table-of-contents)
 
-Frontend code should always be written in [Typescript](https://www.typescriptlang.org/) and transpiled using the options in `tsconfig.json` in this repository. npm should always be used for package management.
+npm should always be used for package management.
 
-Run `bundle exec jekyll serve -H 127.0.0.1` to get local access. Next, head to [http://127.0.0.1:4000/](http://127.0.0.1:4000/) and then hit `ctrl`+`c` to stop the server.
+Run npm run start to get local access. Next, head to [http://127.0.0.1:3000/](http://127.0.0.1:3000/) and then hit `ctrl`+`c` to stop the server.
 
 Don't forget to regulary update dependenies with `bundle update` and `npm update`.
 
@@ -48,7 +47,7 @@ Don't forget to regulary update dependenies with `bundle update` and `npm update
 
 [{{back to navigation}}](#table-of-contents)
 
-As a standard, all code contributions should be linted with [ESLint](https://eslint.org/) using `.eslintrc.js` and formatted with [Prettier](https://prettier.io/). **Note:** HTML + CSS, mark-up and mark-down code are exemptions and should be formatted using [Prettier](https://prettier.io/) but do not need to be linted.
+**Note:** HTML + CSS, mark-up and mark-down code should be formatted using [Prettier](https://prettier.io/) but do not need to be linted.
 
 We recommend that you use globbing to lint all markdown files in the project. To do this, please replace the line "lint:md" in the package.json file with "lint:md": "npx markdownlint-cli --ignore node_modules ./*/.md".
 
@@ -60,16 +59,6 @@ Our GitHub Actions will also lint any pull requests before they're merged.
 ## Build Testing
 
 Once code alterations have been made, please ensure the validity and stability of the code. We recommend using [Docusaurus](https://docusaurus.io/) using command 'npm run build' or 'npm run start' for continuous visualisation.
-
-## Testing
-
-[{{back to navigation}}](#table-of-contents)
-
-All code contributions should be tested using both the [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/).
-
-`npm run test` will run any existing tests in our codebase.
-
-Our GitHub Actions will also test any pull requests before they're merged! These all must pass and have 2 reviewers approval before a pull request can merge. If one or a few fail and your troubleshooting is not giving an answer, please check out the [gliff.ai Contribution Guide](https://github.com/gliff-ai/.github/blob/main/CONTRIBUTING.md) 👋 for further guidance.
 
 ## Continuous Integration
 
