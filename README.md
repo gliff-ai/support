@@ -6,7 +6,8 @@
 
 This repository contains the Open Source code for [gliff.ai](https://gliff.ai)’s DOCUMENT supporting library (built using the [Just The Docs](https://pmarsceill.github.io/just-the-docs/) Jekyll template).
 
-DOCUMENT is [gliff.ai](https://gliff.ai)'s user documentation for supporting use of our user-friendly interface for curating, annotation and collaborating with imaging datasets for the purposes of developing imaging AI products. When the full [gliff.ai platform](https://gliff.ai/software/) is used, DOCUMENT provides a clear guide for our users to support the development of high-quality and auditable datasets that satisfy any relevant regulatory frameworks which enables our users to build world-changing and trustworthy AI models and products.
+DOCUMENT is [gliff.ai](https://gliff.ai)'s user documentation for supporting use of our user-friendly interface for curating, annotation and collaborating with imaging datasets for the purposes of developing imaging AI products.
+When the full [gliff.ai platform](https://gliff.ai/software/) is used, DOCUMENT provides a clear guide for our users to support the development of high-quality and auditable datasets that satisfy any relevant regulatory frameworks which enables our users to build world-changing and trustworthy AI models and products.
 
 A preview build of the current `main` branch is [here](https://docs.gliff.app/).
 
@@ -41,7 +42,7 @@ npm should always be used for package management.
 
 Run npm run start to get local access. Next, head to [http://127.0.0.1:3000/](http://127.0.0.1:3000/) and then hit `ctrl`+`c` to stop the server.
 
-Don't forget to regulary update dependenies with `bundle update` and `npm update`.
+Don't forget to regularly update dependencies with `bundle update` and `npm update`.
 
 ## Linting and Formatting
 
@@ -73,7 +74,8 @@ GitHub Actions should only be included under the `.github/workflows` path.
 We welcome all contributors and any contributions on this project through the likes of feedback on or suggesting features and enhancements, raising bug problems, reporting on security vulnerabilities, reviewing code, requesting or creating tests, user testing etc. to ensure gliff.ai can help enable the best and biggest positive impact possible.
 
 Sounds good and want to contribute to the project? 🧑‍💻 \
-Please check the [gliff.ai Contribution Guide](<(https://github.com/gliff-ai/.github/blob/main/CONTRIBUTING.md)>) 👋 before you get started. Don’t forget the [gliff.ai Code of Conduct](<(https://github.com/gliff-ai/.github/blob/main/CODE_OF_CONDUCT.md)>) ⚠️ and [gliff.ai Security Policy](<(https://github.com/gliff-ai/.github/blob/main/SECURITY.md)>) 🔒 too!
+Please check the [gliff.ai Contribution Guide](<(https://github.com/gliff-ai/.github/blob/main/CONTRIBUTING.md)>) 👋 before you get started.
+Don’t forget the [gliff.ai Code of Conduct](<(https://github.com/gliff-ai/.github/blob/main/CODE_OF_CONDUCT.md)>) ⚠️ and [gliff.ai Security Policy](<(https://github.com/gliff-ai/.github/blob/main/SECURITY.md)>) 🔒 too!
 
 A big thank you from the entire gliff.ai team to these fellow contributors ([emoji key](https://allcontributors.org/docs/en/emoji-key)): \
 [{{Contributor List - _coming soon_}}](https://github.com/all-contributors/all-contributors)
