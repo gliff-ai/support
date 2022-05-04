@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introduction - Basics
+# Introduction
 
 **Learn how to use the platform to curate and annotate your data, as well as managing image assignments.**
 
