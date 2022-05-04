@@ -4,8 +4,6 @@ sidebar_position: 5
 
 # Annotation
 
-## First Steps
-
 Welcome to the gliff.ai annotation tool, this has been designed to make it easy for domain-specific experts to add data to images enabling machine learning training.
 Our custom browser-based UI is designed with this in mind, hopefully making the process easily accessible to annotators of all technical experience levels.
 
