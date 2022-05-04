@@ -24,5 +24,6 @@ Additionally, by clicking the **+** in the top right of the Plan Usage panel, fu
 
 The platform is capable of integrating custom code that is specific to your team and, as with the whole platform, only visible to your team.
 This works through an API/SDK connection and can be used to affect or analyse images at multiple levels within the platform.
-An example of a gliff.ai compatible plug-in can be found here [geodesic plug-in](https://github.com/gliff-ai/plugin_geodesic-active-contour).
+gliff.ai plug-in repositories are written with a particular format, an example of which can be found here: [geodesic plug-in](https://github.com/gliff-ai/plugin_geodesic-active-contour).
+
 If you wish to take advantage of this feature please [contact us](https://gliff.ai/contact).
