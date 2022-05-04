@@ -31,7 +31,7 @@ Looking for something specific? 🔍
 
 install npm dependencies for lint and format with `npm i --include=dev`.
 
-For further info on npm, please visit https://www.npmjs.com/.
+For further info on npm, please visit [https://www.npmjs.com/](https://www.npmjs.com/).
 
 ## Development
 
