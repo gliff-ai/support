@@ -6,7 +6,7 @@ sidebar_position: 7
 
 Whilst the paintbrush is the primary functionality within the annotation interface, there are also a host of options for drawing with splines and other tools to create linear and boundary annotations.
 
-_Tip: Begin a new annotation when switching between tools, see Annotation Management section of [Annotation: First Steps](firststeps) for further instructions._
+_Tip: Begin a new annotation when switching between tools, see Annotation Management section of [Annotation](annotation) for further instructions._
 
 ## Splines
 
