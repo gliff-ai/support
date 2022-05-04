@@ -24,7 +24,7 @@ By clicking the **Eraser** button you can switch the brush tool to erase section
 You will again be given the size slider to choose your size, as with the brush.
 Erasing on the canvas works identically to the brush.
 
-_Tip: To begin a new annotation or to cycle back through annotations already completed, please see the Annotation management section of [Annotation](../annotation)._
+_Tip: To begin a new annotation or to cycle back through annotations already completed, please see the Annotation management section of [Annotation](annotation)._
 
 ## 3D Brush
 

@@ -25,7 +25,7 @@ Discover how to take advantage of these features.
 
 A basic form of image annotation, where the user can attach a text label to any or all images in a dataset to categorise them.
 
-## [Annotation](../annotation)
+## [Annotation](annotation)
 
 The gliff.ai annotation interface contains a myriad of features and different ways to markup images.
 Learn how to begin the annotation process.
