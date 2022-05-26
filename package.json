@@ -13,16 +13,18 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "format": "npx --no-install prettier --write *.md",
-    "prettier": "npx --no-install prettier -c *.md",
+    "format": "npx prettier --write ./**/*.md",
+    "prettier": "npx prettier -c ./**/*.md",
     "lint": "npm run lint:md",
-    "lint:md": "npx markdownlint *.md"
+    "lint:md": "npx markdownlint-cli ./**/*.md"
   },
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.14",
     "@docusaurus/preset-classic": "2.0.0-beta.14",
     "@mdx-js/react": "^1.6.21",
     "clsx": "^1.1.1",
+    "markdownlint-cli": "^0.31.1",
+    "prettier": "^2.6.0",
     "prism-react-renderer": "^1.2.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
