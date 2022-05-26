@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Labels
 
-_Tip: To Label and annotation you must first select it, see Annotation Management section of [Annotation](annotation) for further instructions._
+_Tip: To Label an annotation you must first select it, see Annotation Management section of [Annotation](annotation) for further instructions._
 
 ![Annotation Labels Interface](/img/annotate/annotate_labels.png)
 
