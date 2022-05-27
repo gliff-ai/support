@@ -8,7 +8,7 @@ One of the the most commonly used annotation methods, the gliff.ai platform cont
 
 ![Paintbrush Functions](/img/annotate/annotate_paintbrush.png)
 
-Tip: To begin a new annotation or to cycle back through annotations already completed, please see the Annotation management section of [Annotation: First Steps](firststeps).
+_Tip: To begin a new annotation or to cycle back through annotations already completed, please see the Annotation management section of [Annotation](annotation)._
 
 ## Brush
 
@@ -24,7 +24,7 @@ By clicking the **Eraser** button you can switch the brush tool to erase section
 You will again be given the size slider to choose your size, as with the brush.
 Erasing on the canvas works identically to the brush.
 
-_Tip: To begin a new annotation or to cycle back through annotations already completed, please see the Annotation management section of [Annotation: First Steps](firststeps)._
+_Tip: To begin a new annotation or to cycle back through annotations already completed, please see the Annotation management section of [Annotation](annotation)._
 
 ## 3D Brush
 
@@ -37,3 +37,11 @@ Clicking the **Use 3D brushstrokes** button will activate the 3D brush, 3D annot
 The transparency of active and non-active annotations can be altered by clicking the **Annotation Transparency** button.
 Using the two sliders allows you to modify the transparency of both the current (brush) and all other (brush) annotations in the range of 0-100% (opacity).
 This can be a very useful tool to determine the accuracy of drawn annotations by comparing to the background image.
+
+## Strokes vs. Pixels
+
+Brush strokes can be converted from the standard vector-graphic representation into pixel level annotations, based on the size of the pixels of the image being annotated.
+
+![Converter Button](/img/annotate/annotate_strokes.png)
+
+To convert, click the **Show strokes as pixels** button.

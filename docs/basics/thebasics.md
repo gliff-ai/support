@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Basics
+# Introduction
 
 **Learn how to use the platform to curate and annotate your data, as well as managing image assignments.**
 
@@ -25,7 +25,7 @@ Discover how to take advantage of these features.
 
 A basic form of image annotation, where the user can attach a text label to any or all images in a dataset to categorise them.
 
-## [Annotation: First Steps](firststeps)
+## [Annotation](annotation)
 
 The gliff.ai annotation interface contains a myriad of features and different ways to markup images.
 Learn how to begin the annotation process.
