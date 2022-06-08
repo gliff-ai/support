@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'gliff.ai DOCUMENT',
+    title: 'gliff.ai SUPPORT',
     tagline: 'building trustworthy AI with you',
     url: 'https://docs.gliff.app',  // FIXME where is this used?
     baseUrl: '/',
@@ -15,7 +15,7 @@ const config = {
     favicon: 'img/favicon.png',
     // FIXME where are the next two used?
     organizationName: 'gliff-ai', // Usually your GitHub org/user name.
-    projectName: 'document', // Usually your repo name.
+    projectName: 'support', // Usually your repo name.
     trailingSlash: false,
 
     presets: [
@@ -55,7 +55,7 @@ const config = {
                         type: 'doc',
                         docId: 'intro',
                         position: 'left',
-                        label: 'DOCUMENT',
+                        label: 'SUPPORT',
                     },
                     // { to: '/blog', label: 'Blog', position: 'left' },
                     {

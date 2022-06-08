@@ -1,13 +1,13 @@
-# gliff.ai DOCUMENT
+# gliff.ai SUPPORT
 
-![Latest Tag](https://img.shields.io/github/v/tag/gliff-ai/document?&label=latest_tag&style=flat-square&color=f2f2f2) ![Number of Open Issues](https://img.shields.io/github/issues/gliff-ai/document?style=flat-square&color=yellow) ![Number of Open Pull Requests](https://img.shields.io/github/issues-pr/gliff-ai/document?style=flat-square&color=yellow) ![Number of Contributors](https://img.shields.io/github/contributors/gliff-ai/document?style=flat-square&color=yellow) ![Repository Size](https://img.shields.io/github/repo-size/gliff-ai/document?style=flat-square&color=red) ![Repo License](https://img.shields.io/github/license/gliff-ai/document?color=0078FF&style=flat-square)
+![Latest Tag](https://img.shields.io/github/v/tag/gliff-ai/support?&label=latest_tag&style=flat-square&color=f2f2f2) ![Number of Open Issues](https://img.shields.io/github/issues/gliff-ai/support?style=flat-square&color=yellow) ![Number of Open Pull Requests](https://img.shields.io/github/issues-pr/gliff-ai/support?style=flat-square&color=yellow) ![Number of Contributors](https://img.shields.io/github/contributors/gliff-ai/support?style=flat-square&color=yellow) ![Repository Size](https://img.shields.io/github/repo-size/gliff-ai/support?style=flat-square&color=red) ![Repo License](https://img.shields.io/github/license/gliff-ai/support?color=0078FF&style=flat-square)
 
 👋 **Welcome in!** 👋
 
-This repository contains the Open Source code for [gliff.ai](https://gliff.ai)’s DOCUMENT supporting library (built using the [Just The Docs](https://pmarsceill.github.io/just-the-docs/) Jekyll template).
+This repository contains the Open Source code for [gliff.ai](https://gliff.ai)’s SUPPORT supporting library (built using the [Just The Docs](https://pmarsceill.github.io/just-the-docs/) Jekyll template).
 
-DOCUMENT is [gliff.ai](https://gliff.ai)'s user documentation for supporting use of our user-friendly interface for curating, annotation and collaborating with imaging datasets for the purposes of developing imaging AI products.
-When the full [gliff.ai platform](https://gliff.ai/software/) is used, DOCUMENT provides a clear guide for our users to support the development of high-quality and auditable datasets that satisfy any relevant regulatory frameworks which enables our users to build world-changing and trustworthy AI models and products.
+SUPPORT is [gliff.ai](https://gliff.ai)'s user documentation for supporting use of our user-friendly interface for curating, annotation and collaborating with imaging datasets for the purposes of developing imaging AI products.
+When the full [gliff.ai platform](https://gliff.ai/software/) is used, SUPPORT provides a clear guide for our users to support the development of high-quality and auditable datasets that satisfy any relevant regulatory frameworks which enables our users to build world-changing and trustworthy AI models and products.
 
 A preview build of the current `main` branch is [here](https://docs.gliff.app/).
 
@@ -17,14 +17,16 @@ A preview build of the current `main` branch is [here](https://docs.gliff.app/).
 
 Looking for something specific? 🔍
 
-- [Repository Introduction](#gliffai-document)
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Development](#development)
-- [Linting and Formatting](#linting-and-formatting)
-- [Contribute](#contribute)
-- [Contact](#contact)
-- [License](#license)
+- [gliff.ai SUPPORT](#gliffai-support)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Development](#development)
+  - [Linting and Formatting](#linting-and-formatting)
+  - [Build Testing](#build-testing)
+  - [Continuous Integration](#continuous-integration)
+  - [Contribute](#contribute)
+  - [Contact](#contact)
+  - [License](#license)
 
 ## Installation
 
@@ -50,7 +52,7 @@ Don't forget to regularly update dependencies with `bundle update` and `npm upda
 
 **Note:** HTML + CSS, mark-up and mark-down code should be formatted using [Prettier](https://prettier.io/) but do not need to be linted.
 
-We recommend that you use globbing to lint all markdown files in the project. To do this, please replace the line "lint:md" in the package.json file with "lint:md": "npx markdownlint-cli --ignore node_modules ./*/.md".
+We recommend that you use globbing to lint all markdown files in the project. To do this, please replace the line "lint:md" in the package.json file with "lint:md": "npx markdownlint-cli --ignore node_modules ./\*/.md".
 
 `npm run lint` will lint the codebase.
 `npm run format` will format the codebase.
@@ -91,5 +93,5 @@ Reach out to the gliff.ai team at [community@gliff.ai](mailto:community@gliff.ai
 
 [{{back to navigation}}](#table-of-contents)
 
-This code is licensed under a [GNU AGPLv3 license](https://github.com/gliff-ai/document/blob/main/LICENSE) 📝 \
+This code is licensed under a [GNU AGPLv3 license](https://github.com/gliff-ai/support/blob/main/LICENSE) 📝 \
 Curious about our reasoning for this? Read about them [here](https://gliff.ai/articles/open-source-license-gnu-agplv3/)!

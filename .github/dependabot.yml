@@ -3,12 +3,14 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/.github/"
     schedule:
-      interval: "weekly"
+      interval: "monthly"
     reviewers:
-      - "gliff-ai/techteam"
-  - package-ecosystem: "bundler"
+      - "gliff-ai/ci-cd"
+    commit-message:
+      prefix: "chore: "
+  - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "weekly"
     reviewers:
-      - "gliff-ai/techteam"
+      - "gliff-ai/frontend"

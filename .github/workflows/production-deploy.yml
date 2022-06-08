@@ -1,0 +1,22 @@
+name: production deploy
+on:
+  schedule:
+    - cron: "00 06 * * 2"
+jobs:
+  update-dep:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          ref: main
+      - name: open pull request
+        id: pull
+        uses: tretuna/sync-branches@1.4.0
+        with:
+          GITHUB_TOKEN: ${{secrets.DEPENDENCY_ROBOT_PAT}}
+          FROM_BRANCH: "staging"
+          TO_BRANCH: "main"
+          PULL_REQUEST_TITLE: "chore: prod deploy"
+          CONTENT_COMPARISON: true
+          TEAM_REVIEWERS: '["documentation"]'

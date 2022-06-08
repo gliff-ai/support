@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Get Started
+# Introduction
 
 **Learn where to begin with signing up and setting up your gliff.ai account, projects and team.**
 
