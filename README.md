@@ -1,12 +1,12 @@
-# gliff.ai DOCUMENT
+# gliff.ai SUPPORT
 
-![Latest Tag](https://img.shields.io/github/v/tag/gliff-ai/document?&label=latest_tag&style=flat-square&color=f2f2f2) ![Number of Open Issues](https://img.shields.io/github/issues/gliff-ai/document?style=flat-square&color=yellow) ![Number of Open Pull Requests](https://img.shields.io/github/issues-pr/gliff-ai/document?style=flat-square&color=yellow) ![Number of Contributors](https://img.shields.io/github/contributors/gliff-ai/document?style=flat-square&color=yellow) ![Repository Size](https://img.shields.io/github/repo-size/gliff-ai/document?style=flat-square&color=red) ![Repo License](https://img.shields.io/github/license/gliff-ai/document?color=0078FF&style=flat-square)
+![Latest Tag](https://img.shields.io/github/v/tag/gliff-ai/support?&label=latest_tag&style=flat-square&color=f2f2f2) ![Number of Open Issues](https://img.shields.io/github/issues/gliff-ai/support?style=flat-square&color=yellow) ![Number of Open Pull Requests](https://img.shields.io/github/issues-pr/gliff-ai/support?style=flat-square&color=yellow) ![Number of Contributors](https://img.shields.io/github/contributors/gliff-ai/support?style=flat-square&color=yellow) ![Repository Size](https://img.shields.io/github/repo-size/gliff-ai/support?style=flat-square&color=red) ![Repo License](https://img.shields.io/github/license/gliff-ai/support?color=0078FF&style=flat-square)
 
 👋 **Welcome in!** 👋
 
-This repository contains the Open Source code for [gliff.ai](https://gliff.ai)’s DOCUMENT supporting library (built using the [Just The Docs](https://pmarsceill.github.io/just-the-docs/) Jekyll template).
+This repository contains the Open Source code for [gliff.ai](https://gliff.ai)’s SUPPORT supporting library (built using the [Just The Docs](https://pmarsceill.github.io/just-the-docs/) Jekyll template).
 
-DOCUMENT is [gliff.ai](https://gliff.ai)'s user documentation for supporting use of our user-friendly interface for curating, annotation and collaborating with imaging datasets for the purposes of developing imaging AI products. When the full [gliff.ai platform](https://gliff.ai/software/) is used, DOCUMENT provides a clear guide for our users to support the development of high-quality and auditable datasets that satisfy any relevant regulatory frameworks which enables our users to build world-changing and trustworthy AI models and products.
+SUPPORT is [gliff.ai](https://gliff.ai)'s user documentation for supporting use of our user-friendly interface for curating, annotation and collaborating with imaging datasets for the purposes of developing imaging AI products. When the full [gliff.ai platform](https://gliff.ai/software/) is used, SUPPORT provides a clear guide for our users to support the development of high-quality and auditable datasets that satisfy any relevant regulatory frameworks which enables our users to build world-changing and trustworthy AI models and products.
 
 A preview build of the current `main` branch is [here](https://docs.gliff.app/).
 
@@ -16,7 +16,7 @@ A preview build of the current `main` branch is [here](https://docs.gliff.app/).
 
 Looking for something specific? 🔍
 
-- [Repository Introduction](#gliffai-document)
+- [Repository Introduction](#gliffai-support)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Development](#development)
@@ -30,7 +30,7 @@ Looking for something specific? 🔍
 
 [{{back to navigation}}](#table-of-contents)
 
-Initially you will need to install [Ruby <2.7](https://www.ruby-lang.org/en/documentation/installation/) and [bundler](https://bundler.io/) with `gem install bundler`.
+Initially you will need to install [Ruby <2.7](https://www.ruby-lang.org/en/supportation/installation/) and [bundler](https://bundler.io/) with `gem install bundler`.
 
 Run `bundle config set --local path 'vendor/bundle'` to make the bundle install everything locally (so no sudo is required) and install dependenies locally with `bundle install` and npm dependencies for lint and format with `npm i`.
 
@@ -94,5 +94,5 @@ Reach out to the gliff.ai team at [community@gliff.ai](mailto:community@gliff.ai
 
 [{{back to navigation}}](#table-of-contents)
 
-This code is licensed under a [GNU AGPLv3 license](https://github.com/gliff-ai/document/blob/main/LICENSE) 📝 \
+This code is licensed under a [GNU AGPLv3 license](https://github.com/gliff-ai/support/blob/main/LICENSE) 📝 \
 Curious about our reasoning for this? Read about them [here](https://gliff.ai/articles/open-source-license-gnu-agplv3/)!
