@@ -61,7 +61,8 @@ Our GitHub Actions will also lint any pull requests before they're merged.
 
 ## Build Testing
 
-Once code alterations have been made, please ensure the validity and stability of the code. We recommend using [Docusaurus](https://docusaurus.io/) using command 'npm run build' or 'npm run start' for continuous visualisation.
+Once code alterations have been made, please ensure the validity and stability of the code. 
+We use [Docusaurus](https://docusaurus.io/) using command 'npm run build' or 'npm run start' for continuous visualisation.
 
 ## Continuous Integration
 
