@@ -6,7 +6,8 @@
 
 This repository contains the Open Source code for [gliff.ai](https://gliff.ai)’s SUPPORT supporting library (built using the [Just The Docs](https://pmarsceill.github.io/just-the-docs/) Jekyll template).
 
-SUPPORT is [gliff.ai](https://gliff.ai)'s user documentation for supporting use of our user-friendly interface for curating, annotation and collaborating with imaging datasets for the purposes of developing imaging AI products. When the full [gliff.ai platform](https://gliff.ai/software/) is used, SUPPORT provides a clear guide for our users to support the development of high-quality and auditable datasets that satisfy any relevant regulatory frameworks which enables our users to build world-changing and trustworthy AI models and products.
+SUPPORT is [gliff.ai](https://gliff.ai)'s user documentation for supporting use of our user-friendly interface for curating, annotation and collaborating with imaging datasets for the purposes of developing imaging AI products.
+When the full [gliff.ai platform](https://gliff.ai/software/) is used, SUPPORT provides a clear guide for our users to support the development of high-quality and auditable datasets that aid compliance with regulatory frameworks, enabling our users to build world-changing and trustworthy AI models and products.
 
 A preview build of the current `main` branch is [here](https://docs.gliff.app/).
 
@@ -16,54 +17,52 @@ A preview build of the current `main` branch is [here](https://docs.gliff.app/).
 
 Looking for something specific? 🔍
 
-- [Repository Introduction](#gliffai-support)
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Development](#development)
-- [Linting and Formatting](#linting-and-formatting)
-- [Testing](#testing)
-- [Contribute](#contribute)
-- [Contact](#contact)
-- [License](#license)
+- [gliff.ai SUPPORT](#gliffai-support)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Development](#development)
+  - [Linting and Formatting](#linting-and-formatting)
+  - [Build Testing](#build-testing)
+  - [Continuous Integration](#continuous-integration)
+  - [Contribute](#contribute)
+  - [Contact](#contact)
+  - [License](#license)
 
 ## Installation
 
 [{{back to navigation}}](#table-of-contents)
 
-Initially you will need to install [Ruby <2.7](https://www.ruby-lang.org/en/supportation/installation/) and [bundler](https://bundler.io/) with `gem install bundler`.
+install npm dependencies for lint and format with `npm i --include=dev`.
 
-Run `bundle config set --local path 'vendor/bundle'` to make the bundle install everything locally (so no sudo is required) and install dependenies locally with `bundle install` and npm dependencies for lint and format with `npm i`.
+For further info on npm, please visit [https://www.npmjs.com/](https://www.npmjs.com/).
 
 ## Development
 
 [{{back to navigation}}](#table-of-contents)
 
-Frontend code should always be written in [Typescript](https://www.typescriptlang.org/) and transpiled using the options in `tsconfig.json` in this repository. npm should always be used for package management.
+npm should always be used for package management.
 
-Run `bundle exec jekyll serve -H 127.0.0.1` to get local access. Next, head to [http://127.0.0.1:4000/](http://127.0.0.1:4000/) and then hit `ctrl`+`c` to stop the server.
+Run npm run start to get local access. Next, head to [http://127.0.0.1:3000/](http://127.0.0.1:3000/) and then hit `ctrl`+`c` to stop the server.
 
-Don't forget to regulary update dependenies with `bundle update` and `npm update`.
+Don't forget to regularly update dependencies with `bundle update` and `npm update`.
 
 ## Linting and Formatting
 
 [{{back to navigation}}](#table-of-contents)
 
-As a standard, all code contributions should be linted with [ESLint](https://eslint.org/) using `.eslintrc.js` and formatted with [Prettier](https://prettier.io/). **Note:** HTML + CSS, mark-up and mark-down code are exemptions and should be formatted using [Prettier](https://prettier.io/) but do not need to be linted.
+**Note:** HTML + CSS, mark-up and mark-down code should be formatted using [Prettier](https://prettier.io/) but do not need to be linted.
+
+We recommend that you use globbing to lint all markdown files in the project. To do this, please replace the line "lint:md" in the package.json file with "lint:md": "npx markdownlint-cli --ignore node_modules ./\*/.md".
 
 `npm run lint` will lint the codebase.
 `npm run format` will format the codebase.
 
 Our GitHub Actions will also lint any pull requests before they're merged.
 
-## Testing
+## Build Testing
 
-[{{back to navigation}}](#table-of-contents)
-
-All code contributions should be tested using both the [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/).
-
-`npm run test` will run any existing tests in our codebase.
-
-Our GitHub Actions will also test any pull requests before they're merged! These all must pass and have 2 reviewers approval before a pull request can merge. If one or a few fail and your troubleshooting is not giving an answer, please check out the [gliff.ai Contribution Guide](https://github.com/gliff-ai/.github/blob/main/CONTRIBUTING.md) 👋 for further guidance.
+Once code alterations have been made, please ensure the validity and stability of the code. 
+We use [Docusaurus](https://docusaurus.io/) using command 'npm run build' or 'npm run start' for continuous visualisation.
 
 ## Continuous Integration
 
@@ -78,7 +77,8 @@ GitHub Actions should only be included under the `.github/workflows` path.
 We welcome all contributors and any contributions on this project through the likes of feedback on or suggesting features and enhancements, raising bug problems, reporting on security vulnerabilities, reviewing code, requesting or creating tests, user testing etc. to ensure gliff.ai can help enable the best and biggest positive impact possible.
 
 Sounds good and want to contribute to the project? 🧑‍💻 \
-Please check the [gliff.ai Contribution Guide](<(https://github.com/gliff-ai/.github/blob/main/CONTRIBUTING.md)>) 👋 before you get started. Don’t forget the [gliff.ai Code of Conduct](<(https://github.com/gliff-ai/.github/blob/main/CODE_OF_CONDUCT.md)>) ⚠️ and [gliff.ai Security Policy](<(https://github.com/gliff-ai/.github/blob/main/SECURITY.md)>) 🔒 too!
+Please check the [gliff.ai Contribution Guide](<(https://github.com/gliff-ai/.github/blob/main/CONTRIBUTING.md)>) 👋 before you get started.
+Don’t forget the [gliff.ai Code of Conduct](<(https://github.com/gliff-ai/.github/blob/main/CODE_OF_CONDUCT.md)>) ⚠️ and [gliff.ai Security Policy](<(https://github.com/gliff-ai/.github/blob/main/SECURITY.md)>) 🔒 too!
 
 A big thank you from the entire gliff.ai team to these fellow contributors ([emoji key](https://allcontributors.org/docs/en/emoji-key)): \
 [{{Contributor List - _coming soon_}}](https://github.com/all-contributors/all-contributors)
